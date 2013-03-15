@@ -1,44 +1,23 @@
- 	<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+---
+layout: default
+title: Home
+---
 
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<!-- Show last 5 posts here -->
+{% for post in site.posts limit: 5  %}
+	
+	<div class="post">
 
- <head>
+        <h2><a href="{{site.baseurl}}{{post.url}}">{{ post.title }}</a></h2>
 
-  <title>... replace with your document's title ...</title>
+        <p class="meta">
+            <span class="date"><i class="icon-clock"></i>{{ post.date | date_to_string }}</span><br/>
+            <span class="category"><i class="icon-tag"></i> {{ post.categories | category_links }}</span><br/>
+            <span class="author"><i class="icon-user"></i> {% if post.author %}{{post.author}}{% else %}{{site.author}}{% endif%}</span>
+        </p>
+	
+		<div class="entry">{{ post.excerpt }}</div>
+	</div>
 
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-
-  <meta name="description" content="... replace with your document's description ..." />
-  <meta name="keywords" content="... replace with your document's keywords ..." />
-  <meta name="author" lang="en" content="... replace with your document's author ..." />
-  <meta name="copyright" content="&copy; ... replace with your document's copyright ..." />
-  <meta name="date" content="... replace with your document's date ..." />
-  <meta name="reply-to" content="... replace with your reply adrress ..." />
-
-  <link rel="stylesheet" type="text/css" href="... replace with your document's stylesheet location ..." />
-
-  <style type="text/css">
-   body { background: white; color: black}
-   a:link { color: red }
-   a:visited { color: maroon }
-   a:active { color: fuchsia }
-  </style>
-
-  <script type="text/vbscript" src="... replace with your script's location ..."></script>
-  <script type="text/javascript" src="... replace with your script's location ..."></script>
-
-  <script type="text/javascript">
-   <![CDATA[
-   ... unescaped script content ...
-   ]]>
-  </script>
-
- </head>
-
-
- <body>
-  ... replace with your document's content ...
- </body>
-
-</html> 
+	
+{% endfor %}
