@@ -1,0 +1,161 @@
+<p>﻿# git - the simple guide</p>
+
+<blockquote>
+<p>by Roger Dudler credits to @tfnico, @fhd and Namics</p>
+</blockquote>
+
+<h2 id='create_a_new_repository'>create a new repository</h2>
+
+<p>Create a new directory, open it and perform a</p>
+
+<p><code>git init</code></p>
+
+<p>to create a new git repository.</p>
+
+<h2 id='checkout_a_repository'>checkout a repository</h2>
+
+<p>Create a working copy of a local repository by running the command</p>
+
+<p><code>git clone /path/to/repository</code></p>
+
+<p>When using a remote server, your command will be</p>
+
+<p><code>git clone username@host:/path/to/repository</code></p>
+
+<h2 id='workflow'>workflow</h2>
+
+<p>Your local repository consists of three &#8220;trees&#8221; maintained by git.</p>
+
+<ul>
+<li>the first one is your <code>Working Directory</code> which holds the actual files.</li>
+
+<li>the second one is the <code>Index</code> which acts as a staging area.</li>
+
+<li>the <code>HEAD</code> which points to the last commit you&#8217;ve made.</li>
+</ul>
+
+<h2 id='add__commit'>add &amp; commit</h2>
+
+<p>You can propose changes (add it to the Index) using</p>
+
+<p><code>git add &lt;filename&gt;</code></p>
+
+<p><code>git add *</code></p>
+
+<p>This is the first step in the basic git workflow. To actually commit these changes use</p>
+
+<p><code>git commit -m &quot;Commit message&quot;</code></p>
+
+<p>Now the file is committed to the <code>HEAD</code>, but not in your remote repository yet.</p>
+
+<h2 id='pushing_changes'>pushing changes</h2>
+
+<p>Your changes are now in the <code>HEAD</code> of your local working copy. To send those changes to your remote repository, execute</p>
+
+<p><code>git push origin master</code></p>
+
+<p>Change <code>master</code> to whatever branch you want to push your changes to.</p>
+
+<p>If you have not cloned an existing repository and want to connect your repository to a remote server, you need to add it with</p>
+
+<p><code>git remote add origin &lt;server&gt;</code></p>
+
+<p>Now you are able to push your changes to the selected remote server</p>
+
+<h2 id='branching'>branching</h2>
+
+<p>Branches are used to develop features isolated from each other. The <code>master branch</code> is the &#8220;default&#8221; branch when you create a repository. Use other branches for development and merge them back to the master branch upon completion.</p>
+
+<p>Create a new branch named &#8220;feature_x&#8221; and switch to it using</p>
+
+<p><code>git checkout -b feature_x</code></p>
+
+<p>Switch back to master</p>
+
+<p><code>git checkout master</code></p>
+
+<p>and delete the branch again</p>
+
+<p><code>git branch -d feature_x</code></p>
+
+<p>A branch is not available to others unless you push the branch to your remote repository</p>
+
+<p><code>git push origin &lt;branch&gt;</code></p>
+
+<h2 id='update__merge'>update &amp; merge</h2>
+
+<p>To update your local repository to the newest commit, execute</p>
+
+<p><code>git pull</code></p>
+
+<p>in your working directory to fetch and merge remote changes.</p>
+
+<p>To merge another branch into your active branch (e.g. master), use</p>
+
+<p><code>git merge &lt;branch&gt;</code></p>
+
+<p>in both cases git tries to auto-merge changes. Unfortunately, this is not always possible and results in conflicts. You are responsible to merge those conflicts manually by editing the files shown by git.</p>
+
+<p>After changing, you need to mark them as merged with</p>
+
+<p><code>git add &lt;filename&gt;</code></p>
+
+<p>before merging changes, You can also preview them by using</p>
+
+<p><code>git diff &lt;source_branch&gt; &lt;target_branch&gt;</code></p>
+
+<h2 id='tagging'>tagging</h2>
+
+<p>It&#8217;s recommended to create tags for software releases. this is a known concept, which also exists in SVN. You can create a new tag named 1.0.0 by executing</p>
+
+<p><code>git tag 1.0.0 1b2e1d63ff</code></p>
+
+<p>the <code>1b2e1d63ff</code> stands for the first 10 characters of the commit id you want to reference with your tag. You can get the commit id with git log. You can also use fewer characters of the commit id, it just has to be unique.</p>
+
+<h2 id='replace_local_changes'>replace local changes</h2>
+
+<p>In case you did something wrong (which for sure never happens ;) you can replace local changes using the command</p>
+
+<p><code>git checkout -- &lt;filename&gt;</code></p>
+
+<p>this replaces the changes in your working tree with the last content in <code>HEAD</code>. Changes already added to the <code>index</code>, as well as new files, will be kept.</p>
+
+<p>If you instead want to drop all your local changes and commits, fetch the latest history from the server and point your local master branch at it like this</p>
+
+<p><code>git fetch origin</code></p>
+
+<p><code>git reset --hard origin/master</code></p>
+
+<h2 id='useful_hints'>useful hints</h2>
+
+<p>built-in git GUI</p>
+
+<p><code>gitk</code></p>
+
+<p>use colorful git output</p>
+
+<p><code>git config color.ui true</code></p>
+
+<p>show log on just one line per commit</p>
+
+<p><code>git config format.pretty oneline</code></p>
+
+<p>use interactive adding</p>
+
+<p><code>git add -i</code></p>
+
+<h2 id='links__resources__guides'>links &amp; resources &amp; guides</h2>
+
+<p><a href='http://book.git-scm.com/'>Git Community Book</a></p>
+
+<p><a href='http://progit.org/book/'>Pro Git</a></p>
+
+<p><a href='http://think-like-a-git.net/'>Think like a git</a></p>
+
+<p><a href='http://help.github.com/'>GitHub Help</a></p>
+
+<p><a href='http://marklodato.github.com/visual-git-guide/index-en.html'>A Visual Git Guide</a></p>
+
+<h2 id='source'>source</h2>
+
+<p>http://rogerdudler.github.com/git-guide/</p>

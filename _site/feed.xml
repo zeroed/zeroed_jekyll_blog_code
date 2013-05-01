@@ -1,9 +1,217 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 	<channel>
-		<title>Sample Jekyll Blog</title>
-		<description>This is a sample Jekyll Blog.</description>
+		<title>zeroed's [Jekyll] Blog</title>
+		<description>zeroed on Jekyll.</description>
 		<link>http://localhost:4242</link>
+		
+			<item>
+				<title>Git_notes</title>
+				<description>&lt;p&gt;﻿# git - the simple guide&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;by Roger Dudler credits to @tfnico, @fhd and Namics&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&#39;create_a_new_repository&#39;&gt;create a new repository&lt;/h2&gt;
+
+&lt;p&gt;Create a new directory, open it and perform a&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;git init&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;to create a new git repository.&lt;/p&gt;
+
+&lt;h2 id=&#39;checkout_a_repository&#39;&gt;checkout a repository&lt;/h2&gt;
+
+&lt;p&gt;Create a working copy of a local repository by running the command&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;git clone /path/to/repository&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;When using a remote server, your command will be&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;git clone username@host:/path/to/repository&lt;/code&gt;&lt;/p&gt;
+
+&lt;h2 id=&#39;workflow&#39;&gt;workflow&lt;/h2&gt;
+
+&lt;p&gt;Your local repository consists of three &amp;#8220;trees&amp;#8221; maintained by git.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;the first one is your &lt;code&gt;Working Directory&lt;/code&gt; which holds the actual files.&lt;/li&gt;
+
+&lt;li&gt;the second one is the &lt;code&gt;Index&lt;/code&gt; which acts as a staging area.&lt;/li&gt;
+
+&lt;li&gt;the &lt;code&gt;HEAD&lt;/code&gt; which points to the last commit you&amp;#8217;ve made.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#39;add__commit&#39;&gt;add &amp;amp; commit&lt;/h2&gt;
+
+&lt;p&gt;You can propose changes (add it to the Index) using&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;git add &amp;lt;filename&amp;gt;&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;git add *&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;This is the first step in the basic git workflow. To actually commit these changes use&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;git commit -m &amp;quot;Commit message&amp;quot;&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Now the file is committed to the &lt;code&gt;HEAD&lt;/code&gt;, but not in your remote repository yet.&lt;/p&gt;
+
+&lt;h2 id=&#39;pushing_changes&#39;&gt;pushing changes&lt;/h2&gt;
+
+&lt;p&gt;Your changes are now in the &lt;code&gt;HEAD&lt;/code&gt; of your local working copy. To send those changes to your remote repository, execute&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;git push origin master&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Change &lt;code&gt;master&lt;/code&gt; to whatever branch you want to push your changes to.&lt;/p&gt;
+
+&lt;p&gt;If you have not cloned an existing repository and want to connect your repository to a remote server, you need to add it with&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;git remote add origin &amp;lt;server&amp;gt;&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Now you are able to push your changes to the selected remote server&lt;/p&gt;
+
+&lt;h2 id=&#39;branching&#39;&gt;branching&lt;/h2&gt;
+
+&lt;p&gt;Branches are used to develop features isolated from each other. The &lt;code&gt;master branch&lt;/code&gt; is the &amp;#8220;default&amp;#8221; branch when you create a repository. Use other branches for development and merge them back to the master branch upon completion.&lt;/p&gt;
+
+&lt;p&gt;Create a new branch named &amp;#8220;feature_x&amp;#8221; and switch to it using&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;git checkout -b feature_x&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Switch back to master&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;git checkout master&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;and delete the branch again&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;git branch -d feature_x&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;A branch is not available to others unless you push the branch to your remote repository&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;git push origin &amp;lt;branch&amp;gt;&lt;/code&gt;&lt;/p&gt;
+
+&lt;h2 id=&#39;update__merge&#39;&gt;update &amp;amp; merge&lt;/h2&gt;
+
+&lt;p&gt;To update your local repository to the newest commit, execute&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;git pull&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;in your working directory to fetch and merge remote changes.&lt;/p&gt;
+
+&lt;p&gt;To merge another branch into your active branch (e.g. master), use&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;git merge &amp;lt;branch&amp;gt;&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;in both cases git tries to auto-merge changes. Unfortunately, this is not always possible and results in conflicts. You are responsible to merge those conflicts manually by editing the files shown by git.&lt;/p&gt;
+
+&lt;p&gt;After changing, you need to mark them as merged with&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;git add &amp;lt;filename&amp;gt;&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;before merging changes, You can also preview them by using&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;git diff &amp;lt;source_branch&amp;gt; &amp;lt;target_branch&amp;gt;&lt;/code&gt;&lt;/p&gt;
+
+&lt;h2 id=&#39;tagging&#39;&gt;tagging&lt;/h2&gt;
+
+&lt;p&gt;It&amp;#8217;s recommended to create tags for software releases. this is a known concept, which also exists in SVN. You can create a new tag named 1.0.0 by executing&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;git tag 1.0.0 1b2e1d63ff&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;the &lt;code&gt;1b2e1d63ff&lt;/code&gt; stands for the first 10 characters of the commit id you want to reference with your tag. You can get the commit id with git log. You can also use fewer characters of the commit id, it just has to be unique.&lt;/p&gt;
+
+&lt;h2 id=&#39;replace_local_changes&#39;&gt;replace local changes&lt;/h2&gt;
+
+&lt;p&gt;In case you did something wrong (which for sure never happens ;) you can replace local changes using the command&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;git checkout -- &amp;lt;filename&amp;gt;&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;this replaces the changes in your working tree with the last content in &lt;code&gt;HEAD&lt;/code&gt;. Changes already added to the &lt;code&gt;index&lt;/code&gt;, as well as new files, will be kept.&lt;/p&gt;
+
+&lt;p&gt;If you instead want to drop all your local changes and commits, fetch the latest history from the server and point your local master branch at it like this&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;git fetch origin&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;git reset --hard origin/master&lt;/code&gt;&lt;/p&gt;
+
+&lt;h2 id=&#39;useful_hints&#39;&gt;useful hints&lt;/h2&gt;
+
+&lt;p&gt;built-in git GUI&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;gitk&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;use colorful git output&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;git config color.ui true&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;show log on just one line per commit&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;git config format.pretty oneline&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;use interactive adding&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;git add -i&lt;/code&gt;&lt;/p&gt;
+
+&lt;h2 id=&#39;links__resources__guides&#39;&gt;links &amp;amp; resources &amp;amp; guides&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#39;http://book.git-scm.com/&#39;&gt;Git Community Book&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#39;http://progit.org/book/&#39;&gt;Pro Git&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#39;http://think-like-a-git.net/&#39;&gt;Think like a git&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#39;http://help.github.com/&#39;&gt;GitHub Help&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#39;http://marklodato.github.com/visual-git-guide/index-en.html&#39;&gt;A Visual Git Guide&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#39;source&#39;&gt;source&lt;/h2&gt;
+
+&lt;p&gt;http://rogerdudler.github.com/git-guide/&lt;/p&gt;</description>
+				<published>2013-04-17 00:00:00 +0200</published>
+				<link>http://localhost:4242/2013/04/17/git_notes.html</link>
+			</item>
+		
+			<item>
+				<title>Still_alive</title>
+				<description>&lt;h2 id=&#39;still_alive&#39;&gt;still alive?&lt;/h2&gt;
+
+&lt;p&gt;Yup, still alive&amp;#8230; just studying, coding, patching, reading, emacsing&amp;#8230; and always rubying!&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;^_^&lt;/code&gt;&lt;/p&gt;</description>
+				<published>2013-04-10 00:00:00 +0200</published>
+				<link>http://localhost:4242/2013/04/10/still_alive.html</link>
+			</item>
+		
+			<item>
+				<title>Feeder</title>
+				<description>&lt;p&gt;Feeder&lt;/p&gt;
+
+&lt;h1 id=&#39;feeder__greaded_made_human_readable&#39;&gt;Feeder - GReaded made human readable&lt;/h1&gt;
+
+&lt;p&gt;Title: from Google ReaderTags: Ruby, BlogsSubscriptions: 2&lt;/p&gt;
+
+&lt;p&gt;- A Fresh Cup- A Fresh Cup: &lt;a href=&#39;http://afreshcup.com/home/&#39;&gt;link&lt;/a&gt;: Ruby - Adventures with Ruby- Adventures with Ruby: &lt;a href=&#39;http://iain.nl&#39;&gt;link&lt;/a&gt;: Blogs - Automate All the Things!- Automate All the Things!: &lt;a href=&#39;http://dougireton.github.com/&#39;&gt;link&lt;/a&gt;: Blogs - benhoskin.gs- benhoskin.gs: &lt;a href=&#39;http://benhoskin.gs&#39;&gt;link&lt;/a&gt;: Blogs - Caius Theory- Caius Theory: &lt;a href=&#39;http://caiustheory.com/&#39;&gt;link&lt;/a&gt;: Blogs - Code Climate Blog- Code Climate Blog: &lt;a href=&#39;http://blog.codeclimate.com/&#39;&gt;link&lt;/a&gt;: Ruby - Coding Horror- Coding Horror: &lt;a href=&#39;http://www.codinghorror.com/blog/&#39;&gt;link&lt;/a&gt;: Blogs - create. code. learn.- create. code. learn.: &lt;a href=&#39;http://blakesmith.me&#39;&gt;link&lt;/a&gt;: Blogs - Dblock.org | Code- Dblock.org | Code: &lt;a href=&#39;http://code.dblock.org/&#39;&gt;link&lt;/a&gt;: Blogs - Debian News- Debian News: &lt;a href=&#39;http://www.debian.org/News/&#39;&gt;link&lt;/a&gt;: Blogs - Engine Yard Developer Blog- Engine Yard Developer Blog: &lt;a href=&#39;https://blog.engineyard.com&#39;&gt;link&lt;/a&gt;: Ruby - Ernie Miller- Ernie Miller: &lt;a href=&#39;http://erniemiller.org&#39;&gt;link&lt;/a&gt;: Blogs - giant robots smashing into other giant robots- giant robots smashing into other giant robots: &lt;a href=&#39;http://robots.thoughtbot.com/&#39;&gt;link&lt;/a&gt;: Ruby - Giles Bowkett- Giles Bowkett: &lt;a href=&#39;http://gilesbowkett.blogspot.com/&#39;&gt;link&lt;/a&gt;: Blogs - has_many :through- has_many :through: &lt;a href=&#39;http://blog.hasmanythrough.com&#39;&gt;link&lt;/a&gt;: Blogs - Headius- Headius: &lt;a href=&#39;http://blog.headius.com/&#39;&gt;link&lt;/a&gt;: Blogs - Hoopla! - Jack Danger Canty- Hoopla! - Jack Danger Canty: &lt;a href=&#39;http://6brand.com/&#39;&gt;link&lt;/a&gt;: Blogs - i&amp;#8217;m in a hurry - stefano zacchiroli blog- i&amp;#8217;m in a hurry - stefano zacchiroli blog: &lt;a href=&#39;http://upsilon.cc/~zack/blog/&#39;&gt;link&lt;/a&gt;: Blogs - igvita.com- igvita.com: &lt;a href=&#39;http://www.igvita.com&#39;&gt;link&lt;/a&gt;: Blogs - J-_-L- J-_-L: &lt;a href=&#39;http://rbjl.net&#39;&gt;link&lt;/a&gt;: Blogs - Jesse Storimer- Jesse Storimer: &lt;a href=&#39;http://jstorimer.com/&#39;&gt;link&lt;/a&gt;: Blogs - john pignata- john pignata: &lt;a href=&#39;http://tx.pignata.com/&#39;&gt;link&lt;/a&gt;: Blogs - journal.stuffwithstuff.com- journal.stuffwithstuff.com: &lt;a href=&#39;http://journal.stuffwithstuff.com/&#39;&gt;link&lt;/a&gt;: Blogs - Literate Programming- Literate Programming: &lt;a href=&#39;http://www.google.com/reader/view/feed%2Fhttp%3A%2F%2Ffeeds.feedburner.com%2FSteveKlabnik&#39;&gt;link&lt;/a&gt;: Blogs - Matt Aimonetti- Matt Aimonetti: &lt;a href=&#39;http://matt.aimonetti.net/&#39;&gt;link&lt;/a&gt;: Blogs - Matthew Bass- Matthew Bass: &lt;a href=&#39;http://www.matthewbass.com&#39;&gt;link&lt;/a&gt;: Blogs - Mislav&amp;#8217;s blog- Mislav&amp;#8217;s blog: &lt;a href=&#39;http://mislav.uniqpath.com/blog/&#39;&gt;link&lt;/a&gt;: Blogs - Mug.im- Mug.im: &lt;a href=&#39;http://www.mug.im/&#39;&gt;link&lt;/a&gt;: Blogs - Pat Shaughnessy- Pat Shaughnessy: &lt;a href=&#39;http://www.google.com/reader/view/feed%2Fhttp%3A%2F%2Ffeeds.feedburner.com%2Fpatshaughnessy&#39;&gt;link&lt;/a&gt;: Blogs - Planet Ruby- Planet Ruby: &lt;a href=&#39;http://planetruby.0x42.net/&#39;&gt;link&lt;/a&gt;: Ruby - Practicing Ruby- Practicing Ruby: &lt;a href=&#39;http://blog.rubybestpractices.com/&#39;&gt;link&lt;/a&gt;: Ruby - raganwald&amp;#8217;s posterous- raganwald&amp;#8217;s posterous: &lt;a href=&#39;http://raganwald.posterous.com&#39;&gt;link&lt;/a&gt;: Blogs - RailsTips by John Nunemaker- RailsTips by John Nunemaker: &lt;a href=&#39;http://railstips.org/blog/&#39;&gt;link&lt;/a&gt;: Blogs - Rake Routes- Rake Routes: &lt;a href=&#39;http://rakeroutes.com/&#39;&gt;link&lt;/a&gt;: Blogs - Riding Rails- Riding Rails: &lt;a href=&#39;http://weblog.rubyonrails.org/&#39;&gt;link&lt;/a&gt;: Ruby - Ruby Freelancers- Ruby Freelancers: &lt;a href=&#39;http://rubyfreelancers.com&#39;&gt;link&lt;/a&gt;: Ruby - Ruby Inside- Ruby Inside: &lt;a href=&#39;http://www.rubyinside.com/&#39;&gt;link&lt;/a&gt;: Ruby - Ruby Kitchen : Ruby Kitchen | Blog- Ruby Kitchen : Ruby Kitchen | Blog: &lt;a href=&#39;http://rubykitchen.in&#39;&gt;link&lt;/a&gt;: Blogs - Ruby News- Ruby News: &lt;a href=&#39;http://www.ruby-lang.org/en/feeds/news.rss/&#39;&gt;link&lt;/a&gt;: Ruby - Ruby Quicktips- Ruby Quicktips: &lt;a href=&#39;http://rubyquicktips.com/&#39;&gt;link&lt;/a&gt;: Ruby - Ruby Rogues- Ruby Rogues: &lt;a href=&#39;http://rubyrogues.com&#39;&gt;link&lt;/a&gt;: Ruby - Ruby5- Ruby5: &lt;a href=&#39;http://ruby5.envylabs.com/&#39;&gt;link&lt;/a&gt;: Ruby - RubyFlow- RubyFlow: &lt;a href=&#39;http://www.rubyflow.com/&#39;&gt;link&lt;/a&gt;: Ruby - RubyLearning Blog- RubyLearning Blog: &lt;a href=&#39;http://rubylearning.com/blog&#39;&gt;link&lt;/a&gt;: Ruby - RubySource- RubySource: &lt;a href=&#39;http://rubysource.com&#39;&gt;link&lt;/a&gt;: Ruby - Schneems- Schneems: &lt;a href=&#39;http://schneems.com/&#39;&gt;link&lt;/a&gt;: Blogs - Send More Paramedics- Send More Paramedics: &lt;a href=&#39;http://blog.fogus.me&#39;&gt;link&lt;/a&gt;: Blogs - Shades of Gray- Shades of Gray: &lt;a href=&#39;http://blog.grayproductions.net/&#39;&gt;link&lt;/a&gt;: Blogs - silk and spinach- silk and spinach: &lt;a href=&#39;http://silkandspinach.net&#39;&gt;link&lt;/a&gt;: Blogs - stevengharms.com- stevengharms.com: &lt;a href=&#39;http://stevengharms-blog.herokuapp.com//&#39;&gt;link&lt;/a&gt;: Blogs - Stevey&amp;#8217;s Blog Rants- Stevey&amp;#8217;s Blog Rants: &lt;a href=&#39;http://steve-yegge.blogspot.com/&#39;&gt;link&lt;/a&gt;: Blogs - The GitHub Blog- The GitHub Blog: &lt;a href=&#39;https://github.com/blog&#39;&gt;link&lt;/a&gt;: Blogs - The Minimalists- The Minimalists: &lt;a href=&#39;http://www.theminimalists.com&#39;&gt;link&lt;/a&gt;: Blogs - The Ruby Reflector- The Ruby Reflector: &lt;a href=&#39;http://rubyreflector.com&#39;&gt;link&lt;/a&gt;: Ruby - The timeless repository- The timeless repository: &lt;a href=&#39;http://timeless.judofyr.net/&#39;&gt;link&lt;/a&gt;: Blogs - Tony Arcieri- Tony Arcieri: &lt;a href=&#39;http://tonyarcieri.com&#39;&gt;link&lt;/a&gt;: Blogs - Victor Savkin&amp;#8217;s Blog About Software Design- Victor Savkin&amp;#8217;s Blog About Software Design: &lt;a href=&#39;http://victorsavkin.com/&#39;&gt;link&lt;/a&gt;: Blogs - Virtuous Code- Virtuous Code: &lt;a href=&#39;http://devblog.avdi.org&#39;&gt;link&lt;/a&gt;: Blogs&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;Mr. Foobar / foo@foobar.org2013-04-01 19:20:17 +0200&lt;/p&gt;</description>
+				<published>2013-04-01 00:00:00 +0200</published>
+				<link>http://localhost:4242/2013/04/01/feeder.html</link>
+			</item>
+		
+			<item>
+				<title>Links</title>
+				<description>&lt;p&gt;https://gist.github.com/zeroed&lt;/p&gt;
+
+&lt;p&gt;http://zeroed.github.com&lt;/p&gt;
+
+&lt;p&gt;http://zeroed.github.com&lt;/p&gt;
+
+&lt;p&gt;https://github.com/zeroed&lt;/p&gt;
+
+&lt;p&gt;_&lt;/p&gt;</description>
+				<published>2013-03-24 00:00:00 +0100</published>
+				<link>http://localhost:4242/2013/03/24/links.html</link>
+			</item>
 		
 			<item>
 				<title>Page_zero</title>
