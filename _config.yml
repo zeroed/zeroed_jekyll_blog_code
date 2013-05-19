@@ -1,6 +1,6 @@
-safe:        true
+safe: true
 port: 4242
-baseurl:    /
+baseurl: /
 url: http://localhost:4242
 
 source:      .
