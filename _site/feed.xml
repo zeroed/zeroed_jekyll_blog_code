@@ -6,6 +6,17 @@
 		<link>http://localhost:4242</link>
 		
 			<item>
+				<title>Thinking</title>
+				<description>&lt;h2 id=&#39;thinking&#39;&gt;Thinking&lt;/h2&gt;
+
+&lt;p&gt;Mumble mumble&amp;#8230; so much time reading and coding based on my readings&amp;#8230; maybe it will come the time to write something useful myself&amp;#8230; &lt;code&gt;^_^&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Yup, for now&amp;#8230;&lt;/p&gt;</description>
+				<published>2013-05-19 00:00:00 +0200</published>
+				<link>http://localhost:4242/2013/05/19/thinking.html</link>
+			</item>
+		
+			<item>
 				<title>Git_notes</title>
 				<description>&lt;p&gt;﻿# git - the simple guide&lt;/p&gt;
 

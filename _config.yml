@@ -1,8 +1,6 @@
 safe:        true
-auto:        false
-server:      false
-server_port: 4242
-# baseurl:    /jekyll_demo
+port: 4242
+baseurl:    /
 url: http://localhost:4242
 
 source:      .
