@@ -6,6 +6,37 @@
 		<link>http://localhost:4242</link>
 		
 			<item>
+				<title>Reading list</title>
+				<description>&lt;h2 id=&quot;the_reading_list&quot;&gt;The reading list&lt;/h2&gt;
+
+&lt;p&gt;I thought: &lt;em&gt;“why don’t keep trace of the books that I’ll read in 2014?”&lt;/em&gt; … Silly, uh?&lt;/p&gt;
+
+&lt;p&gt;By the way, here is the list...&lt;/p&gt;
+
+&lt;h3 id=&quot;december_2013&quot;&gt;December 2013&lt;/h3&gt;
+
+&lt;p&gt;… After Dark - Haruki Murakami, Francis Scott Fitzgerald - The Great Gatsby, Ryūnosuke Akutagawa - In a Grove, The Difference Engine - William Gibson and Bruce Sterling...&lt;/p&gt;
+
+&lt;h3 id=&quot;january&quot;&gt;January&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Pattern recognition - William Gibson : &lt;a href=&quot;http://en.wikipedia.org/wiki/Pattern_Recognition_%28novel%29&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;Gantz (manga) - Hiroya Oku : &lt;a href=&quot;http://en.wikipedia.org/wiki/Gantz&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;Heads (manga) - Higashino Keigo : &lt;a href=&quot;http://www.mangahere.com/manga/heads/&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;The Insidious Dottot Fu Manchu - Sax Rohmer : &lt;a href=&quot;http://en.wikipedia.org/wiki/Nayland_Smith#Commissioner_Sir_Denis_Nayland_Smith_and_Dr._Petrie&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;Dracula’s Guest - Bram Stoker : &lt;a href=&quot;http://en.wikipedia.org/wiki/Dracula&#39;s_Guest_and_Other_Weird_Stories&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;The corrections - Jonathan Franzen : &lt;a href=&quot;http://en.wikipedia.org/wiki/The_Corrections&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+				<published>2014-01-04 00:00:00 +0100</published>
+				<link>http://localhost:4242/books/2014/01/04/reading-list.html</link>
+			</item>
+		
+			<item>
 				<title>Thinking</title>
 				<description>&lt;h2 id=&quot;thinking&quot;&gt;Thinking&lt;/h2&gt;
 
