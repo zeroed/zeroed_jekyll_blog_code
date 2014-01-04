@@ -2,23 +2,15 @@
 layout: default
 title: Home
 ---
-
-<!-- Show last 5 posts here -->
 {% for post in site.posts limit: 5  %}
-	
-	<div class="post">
-
-        <h3><a href="{{post.url}}">{{ post.title }}</a></h3>
-<!--          <h3><a href="{{site.baseurl}}{{post.url}}">{{ post.title }}</a></h3> -->
-
-        <p class="meta">
-            <span class="date"><i class="icon-clock"></i>{{ post.date | date_to_string }}</span><br/>
-            <span class="category"><i class="icon-tag"></i> {{ post.categories | category_links }}</span><br/>
-            <span class="author"><i class="icon-user"></i> {% if post.author %}{{post.author}}{% else %}{{site.author}}{% endif%}</span>
-        </p>
-	
-	<!--	<div class="entry">{{ post.excerpt }}</div> -->
-	</div>
-
-	
+<div class="post">
+  <h3><a href="{{post.url}}">{{ post.title }}</a></h3>
+  <p class="meta">
+    <span class="category"><i class="icon-tag"></i> {{ post.categories | category_links }}</span>
+    - <span class="date"><i class="icon-clock"></i>{{ post.date | date_to_string }}</span><br/>
+  </p>
+  <p>
+    <div class="excerpt">{{ post.excerpt | excerpt_for }}</div>
+  </p>
+</div>
 {% endfor %}
