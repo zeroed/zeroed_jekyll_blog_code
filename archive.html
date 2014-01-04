@@ -3,12 +3,19 @@ layout: page
 title: Archive
 ---
 
-        <table>
-            {% for post in site.posts %}
-            <tr>
-                <td><i class="icon-clock"></i> <span class="date">{{ post.date | date_to_string }}</span></td>  
-                <td><a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a></td>
-                <td><span class="category"><i class="icon-tag"></i> {{post.categories | category_links}}</span></td>
-            </tr>
-    	{% endfor %}
-        </table>
+<table>
+  {% for post in site.posts %}
+  <tr>
+    <td><i class="icon-clock"></i> <span class="date">{{ post.date | date_to_string }}</span></td>
+    <td><a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a></td>
+    <td><span class="category"><i class="icon-tag"></i> {{post.categories | category_links}}</span></td>
+  </tr>
+  {% endfor %}
+</table>
+
+<div class="categories">
+  <p>categories: {{ site.categories.class.inspect }}</p>
+  {% for category in site.categories %}
+  <a href="{{site.baseurl}}categories/{{ category | first }}">{{ category | first }}</a>
+  {% endfor %}
+</div>
