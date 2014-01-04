@@ -1,3 +1,10 @@
+---
+layout: post
+title: Thinking
+categories: foo
+excerpt: "Mumble mumble..."
+---
+
 ## Thinking
 
 Mumble mumble... so much time reading and coding based on my readings... maybe it will come the time to write something useful myself...

@@ -1,3 +1,10 @@
+---
+layout: post
+title: Feeder
+categories: foo
+excerpt: "..."
+---
+
 Feeder
 Feeder - GReaded made human readable
 ====================================

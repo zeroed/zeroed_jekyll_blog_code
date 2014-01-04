@@ -1,1 +1,8 @@
-The page zero.
+---
+layout: post
+title: Page zero
+categories: foo
+excerpt: "..."
+---
+
+## The page zero.
