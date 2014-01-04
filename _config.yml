@@ -1,4 +1,4 @@
-safe: true
+# safe: true
 port: 4242
 baseurl: /
 url: http://localhost:4242
@@ -45,6 +45,4 @@ name: zeroed's [Jekyll] Blog
 description: zeroed on Jekyll.
 author: zeroed
 author_email: edd.rossi@gmail.com
-category_dir: /
-
-
+category_dir: categories
