@@ -7,61 +7,162 @@
 		
 			<item>
 				<title>Thinking</title>
-				<description>&lt;h2 id=&#39;thinking&#39;&gt;Thinking&lt;/h2&gt;
+				<description>&lt;h2 id=&quot;thinking&quot;&gt;Thinking&lt;/h2&gt;
 
-&lt;p&gt;Mumble mumble&amp;#8230; so much time reading and coding based on my readings&amp;#8230; maybe it will come the time to write something useful myself&amp;#8230; &lt;code&gt;^_^&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Mumble mumble… so much time reading and coding based on my readings… maybe it will come the time to write something useful myself… &lt;code&gt;^_^&lt;/code&gt;&lt;/p&gt;
 
-&lt;p&gt;Yup, for now&amp;#8230;&lt;/p&gt;</description>
+&lt;p&gt;Yup, for now&lt;/p&gt;</description>
 				<published>2013-05-19 00:00:00 +0200</published>
-				<link>http://localhost:4242/2013/05/19/thinking.html</link>
+				<link>http://localhost:4242/foo/2013/05/19/thinking.html</link>
 			</item>
 		
 			<item>
-				<title>Still_alive</title>
-				<description>&lt;h2 id=&#39;still_alive&#39;&gt;still alive?&lt;/h2&gt;
+				<title>Still alive?</title>
+				<description>&lt;h2 id=&quot;still_alive&quot;&gt;still alive?&lt;/h2&gt;
 
-&lt;p&gt;Yup, still alive&amp;#8230; just studying, coding, patching, reading, emacsing&amp;#8230; and always rubying!&lt;/p&gt;
+&lt;p&gt;Yup, still alive… just studying, coding, patching, reading, emacsing… and always rubying!&lt;/p&gt;
 
 &lt;p&gt;&lt;code&gt;^_^&lt;/code&gt;&lt;/p&gt;</description>
 				<published>2013-04-10 00:00:00 +0200</published>
-				<link>http://localhost:4242/2013/04/10/still_alive.html</link>
+				<link>http://localhost:4242/foo/2013/04/10/still_alive.html</link>
 			</item>
 		
 			<item>
 				<title>Feeder</title>
 				<description>&lt;p&gt;Feeder&lt;/p&gt;
 
-&lt;h1 id=&#39;feeder__greaded_made_human_readable&#39;&gt;Feeder - GReaded made human readable&lt;/h1&gt;
+&lt;h1 id=&quot;feeder__greaded_made_human_readable&quot;&gt;Feeder - GReaded made human readable&lt;/h1&gt;
 
 &lt;p&gt;Title: from Google ReaderTags: Ruby, BlogsSubscriptions: 2&lt;/p&gt;
 
-&lt;p&gt;- A Fresh Cup- A Fresh Cup: &lt;a href=&#39;http://afreshcup.com/home/&#39;&gt;link&lt;/a&gt;: Ruby - Adventures with Ruby- Adventures with Ruby: &lt;a href=&#39;http://iain.nl&#39;&gt;link&lt;/a&gt;: Blogs - Automate All the Things!- Automate All the Things!: &lt;a href=&#39;http://dougireton.github.com/&#39;&gt;link&lt;/a&gt;: Blogs - benhoskin.gs- benhoskin.gs: &lt;a href=&#39;http://benhoskin.gs&#39;&gt;link&lt;/a&gt;: Blogs - Caius Theory- Caius Theory: &lt;a href=&#39;http://caiustheory.com/&#39;&gt;link&lt;/a&gt;: Blogs - Code Climate Blog- Code Climate Blog: &lt;a href=&#39;http://blog.codeclimate.com/&#39;&gt;link&lt;/a&gt;: Ruby - Coding Horror- Coding Horror: &lt;a href=&#39;http://www.codinghorror.com/blog/&#39;&gt;link&lt;/a&gt;: Blogs - create. code. learn.- create. code. learn.: &lt;a href=&#39;http://blakesmith.me&#39;&gt;link&lt;/a&gt;: Blogs - Dblock.org | Code- Dblock.org | Code: &lt;a href=&#39;http://code.dblock.org/&#39;&gt;link&lt;/a&gt;: Blogs - Debian News- Debian News: &lt;a href=&#39;http://www.debian.org/News/&#39;&gt;link&lt;/a&gt;: Blogs - Engine Yard Developer Blog- Engine Yard Developer Blog: &lt;a href=&#39;https://blog.engineyard.com&#39;&gt;link&lt;/a&gt;: Ruby - Ernie Miller- Ernie Miller: &lt;a href=&#39;http://erniemiller.org&#39;&gt;link&lt;/a&gt;: Blogs - giant robots smashing into other giant robots- giant robots smashing into other giant robots: &lt;a href=&#39;http://robots.thoughtbot.com/&#39;&gt;link&lt;/a&gt;: Ruby - Giles Bowkett- Giles Bowkett: &lt;a href=&#39;http://gilesbowkett.blogspot.com/&#39;&gt;link&lt;/a&gt;: Blogs - has_many :through- has_many :through: &lt;a href=&#39;http://blog.hasmanythrough.com&#39;&gt;link&lt;/a&gt;: Blogs - Headius- Headius: &lt;a href=&#39;http://blog.headius.com/&#39;&gt;link&lt;/a&gt;: Blogs - Hoopla! - Jack Danger Canty- Hoopla! - Jack Danger Canty: &lt;a href=&#39;http://6brand.com/&#39;&gt;link&lt;/a&gt;: Blogs - i&amp;#8217;m in a hurry - stefano zacchiroli blog- i&amp;#8217;m in a hurry - stefano zacchiroli blog: &lt;a href=&#39;http://upsilon.cc/~zack/blog/&#39;&gt;link&lt;/a&gt;: Blogs - igvita.com- igvita.com: &lt;a href=&#39;http://www.igvita.com&#39;&gt;link&lt;/a&gt;: Blogs - J-_-L- J-_-L: &lt;a href=&#39;http://rbjl.net&#39;&gt;link&lt;/a&gt;: Blogs - Jesse Storimer- Jesse Storimer: &lt;a href=&#39;http://jstorimer.com/&#39;&gt;link&lt;/a&gt;: Blogs - john pignata- john pignata: &lt;a href=&#39;http://tx.pignata.com/&#39;&gt;link&lt;/a&gt;: Blogs - journal.stuffwithstuff.com- journal.stuffwithstuff.com: &lt;a href=&#39;http://journal.stuffwithstuff.com/&#39;&gt;link&lt;/a&gt;: Blogs - Literate Programming- Literate Programming: &lt;a href=&#39;http://www.google.com/reader/view/feed%2Fhttp%3A%2F%2Ffeeds.feedburner.com%2FSteveKlabnik&#39;&gt;link&lt;/a&gt;: Blogs - Matt Aimonetti- Matt Aimonetti: &lt;a href=&#39;http://matt.aimonetti.net/&#39;&gt;link&lt;/a&gt;: Blogs - Matthew Bass- Matthew Bass: &lt;a href=&#39;http://www.matthewbass.com&#39;&gt;link&lt;/a&gt;: Blogs - Mislav&amp;#8217;s blog- Mislav&amp;#8217;s blog: &lt;a href=&#39;http://mislav.uniqpath.com/blog/&#39;&gt;link&lt;/a&gt;: Blogs - Mug.im- Mug.im: &lt;a href=&#39;http://www.mug.im/&#39;&gt;link&lt;/a&gt;: Blogs - Pat Shaughnessy- Pat Shaughnessy: &lt;a href=&#39;http://www.google.com/reader/view/feed%2Fhttp%3A%2F%2Ffeeds.feedburner.com%2Fpatshaughnessy&#39;&gt;link&lt;/a&gt;: Blogs - Planet Ruby- Planet Ruby: &lt;a href=&#39;http://planetruby.0x42.net/&#39;&gt;link&lt;/a&gt;: Ruby - Practicing Ruby- Practicing Ruby: &lt;a href=&#39;http://blog.rubybestpractices.com/&#39;&gt;link&lt;/a&gt;: Ruby - raganwald&amp;#8217;s posterous- raganwald&amp;#8217;s posterous: &lt;a href=&#39;http://raganwald.posterous.com&#39;&gt;link&lt;/a&gt;: Blogs - RailsTips by John Nunemaker- RailsTips by John Nunemaker: &lt;a href=&#39;http://railstips.org/blog/&#39;&gt;link&lt;/a&gt;: Blogs - Rake Routes- Rake Routes: &lt;a href=&#39;http://rakeroutes.com/&#39;&gt;link&lt;/a&gt;: Blogs - Riding Rails- Riding Rails: &lt;a href=&#39;http://weblog.rubyonrails.org/&#39;&gt;link&lt;/a&gt;: Ruby - Ruby Freelancers- Ruby Freelancers: &lt;a href=&#39;http://rubyfreelancers.com&#39;&gt;link&lt;/a&gt;: Ruby - Ruby Inside- Ruby Inside: &lt;a href=&#39;http://www.rubyinside.com/&#39;&gt;link&lt;/a&gt;: Ruby - Ruby Kitchen : Ruby Kitchen | Blog- Ruby Kitchen : Ruby Kitchen | Blog: &lt;a href=&#39;http://rubykitchen.in&#39;&gt;link&lt;/a&gt;: Blogs - Ruby News- Ruby News: &lt;a href=&#39;http://www.ruby-lang.org/en/feeds/news.rss/&#39;&gt;link&lt;/a&gt;: Ruby - Ruby Quicktips- Ruby Quicktips: &lt;a href=&#39;http://rubyquicktips.com/&#39;&gt;link&lt;/a&gt;: Ruby - Ruby Rogues- Ruby Rogues: &lt;a href=&#39;http://rubyrogues.com&#39;&gt;link&lt;/a&gt;: Ruby - Ruby5- Ruby5: &lt;a href=&#39;http://ruby5.envylabs.com/&#39;&gt;link&lt;/a&gt;: Ruby - RubyFlow- RubyFlow: &lt;a href=&#39;http://www.rubyflow.com/&#39;&gt;link&lt;/a&gt;: Ruby - RubyLearning Blog- RubyLearning Blog: &lt;a href=&#39;http://rubylearning.com/blog&#39;&gt;link&lt;/a&gt;: Ruby - RubySource- RubySource: &lt;a href=&#39;http://rubysource.com&#39;&gt;link&lt;/a&gt;: Ruby - Schneems- Schneems: &lt;a href=&#39;http://schneems.com/&#39;&gt;link&lt;/a&gt;: Blogs - Send More Paramedics- Send More Paramedics: &lt;a href=&#39;http://blog.fogus.me&#39;&gt;link&lt;/a&gt;: Blogs - Shades of Gray- Shades of Gray: &lt;a href=&#39;http://blog.grayproductions.net/&#39;&gt;link&lt;/a&gt;: Blogs - silk and spinach- silk and spinach: &lt;a href=&#39;http://silkandspinach.net&#39;&gt;link&lt;/a&gt;: Blogs - stevengharms.com- stevengharms.com: &lt;a href=&#39;http://stevengharms-blog.herokuapp.com//&#39;&gt;link&lt;/a&gt;: Blogs - Stevey&amp;#8217;s Blog Rants- Stevey&amp;#8217;s Blog Rants: &lt;a href=&#39;http://steve-yegge.blogspot.com/&#39;&gt;link&lt;/a&gt;: Blogs - The GitHub Blog- The GitHub Blog: &lt;a href=&#39;https://github.com/blog&#39;&gt;link&lt;/a&gt;: Blogs - The Minimalists- The Minimalists: &lt;a href=&#39;http://www.theminimalists.com&#39;&gt;link&lt;/a&gt;: Blogs - The Ruby Reflector- The Ruby Reflector: &lt;a href=&#39;http://rubyreflector.com&#39;&gt;link&lt;/a&gt;: Ruby - The timeless repository- The timeless repository: &lt;a href=&#39;http://timeless.judofyr.net/&#39;&gt;link&lt;/a&gt;: Blogs - Tony Arcieri- Tony Arcieri: &lt;a href=&#39;http://tonyarcieri.com&#39;&gt;link&lt;/a&gt;: Blogs - Victor Savkin&amp;#8217;s Blog About Software Design- Victor Savkin&amp;#8217;s Blog About Software Design: &lt;a href=&#39;http://victorsavkin.com/&#39;&gt;link&lt;/a&gt;: Blogs - Virtuous Code- Virtuous Code: &lt;a href=&#39;http://devblog.avdi.org&#39;&gt;link&lt;/a&gt;: Blogs&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A Fresh Cup- A Fresh Cup: &lt;a href=&quot;http://afreshcup.com/home/&quot;&gt;link&lt;/a&gt;: Ruby&lt;/li&gt;
+
+&lt;li&gt;Adventures with Ruby- Adventures with Ruby: &lt;a href=&quot;http://iain.nl&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
+
+&lt;li&gt;Automate All the Things!- Automate All the Things!: &lt;a href=&quot;http://dougireton.github.com/&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
+
+&lt;li&gt;benhoskin.gs- benhoskin.gs: &lt;a href=&quot;http://benhoskin.gs&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
+
+&lt;li&gt;Caius Theory- Caius Theory: &lt;a href=&quot;http://caiustheory.com/&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
+
+&lt;li&gt;Code Climate Blog- Code Climate Blog: &lt;a href=&quot;http://blog.codeclimate.com/&quot;&gt;link&lt;/a&gt;: Ruby&lt;/li&gt;
+
+&lt;li&gt;Coding Horror- Coding Horror: &lt;a href=&quot;http://www.codinghorror.com/blog/&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
+
+&lt;li&gt;create. code. learn.- create. code. learn.: &lt;a href=&quot;http://blakesmith.me&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
+
+&lt;li&gt;Dblock.org | Code- Dblock.org | Code: &lt;a href=&quot;http://code.dblock.org/&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
+
+&lt;li&gt;Debian News- Debian News: &lt;a href=&quot;http://www.debian.org/News/&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
+
+&lt;li&gt;Engine Yard Developer Blog- Engine Yard Developer Blog: &lt;a href=&quot;https://blog.engineyard.com&quot;&gt;link&lt;/a&gt;: Ruby&lt;/li&gt;
+
+&lt;li&gt;Ernie Miller- Ernie Miller: &lt;a href=&quot;http://erniemiller.org&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
+
+&lt;li&gt;giant robots smashing into other giant robots- giant robots smashing into other giant robots: &lt;a href=&quot;http://robots.thoughtbot.com/&quot;&gt;link&lt;/a&gt;: Ruby&lt;/li&gt;
+
+&lt;li&gt;Giles Bowkett- Giles Bowkett: &lt;a href=&quot;http://gilesbowkett.blogspot.com/&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
+
+&lt;li&gt;has_many :through- has_many :through: &lt;a href=&quot;http://blog.hasmanythrough.com&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
+
+&lt;li&gt;Headius- Headius: &lt;a href=&quot;http://blog.headius.com/&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
+
+&lt;li&gt;Hoopla! - Jack Danger Canty- Hoopla! - Jack Danger Canty: &lt;a href=&quot;http://6brand.com/&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
+
+&lt;li&gt;i’m in a hurry - stefano zacchiroli blog- i’m in a hurry - stefano zacchiroli blog: &lt;a href=&quot;http://upsilon.cc/~zack/blog/&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
+
+&lt;li&gt;igvita.com- igvita.com: &lt;a href=&quot;http://www.igvita.com&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
+
+&lt;li&gt;J-_-L- J-_-L: &lt;a href=&quot;http://rbjl.net&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
+
+&lt;li&gt;Jesse Storimer- Jesse Storimer: &lt;a href=&quot;http://jstorimer.com/&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
+
+&lt;li&gt;john pignata- john pignata: &lt;a href=&quot;http://tx.pignata.com/&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
+
+&lt;li&gt;journal.stuffwithstuff.com- journal.stuffwithstuff.com: &lt;a href=&quot;http://journal.stuffwithstuff.com/&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
+
+&lt;li&gt;Literate Programming- Literate Programming: &lt;a href=&quot;http://www.google.com/reader/view/feed%2Fhttp%3A%2F%2Ffeeds.feedburner.com%2FSteveKlabnik&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
+
+&lt;li&gt;Matt Aimonetti- Matt Aimonetti: &lt;a href=&quot;http://matt.aimonetti.net/&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
+
+&lt;li&gt;Matthew Bass- Matthew Bass: &lt;a href=&quot;http://www.matthewbass.com&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
+
+&lt;li&gt;Mislav’s blog- Mislav’s blog: &lt;a href=&quot;http://mislav.uniqpath.com/blog/&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
+
+&lt;li&gt;Mug.im- Mug.im: &lt;a href=&quot;http://www.mug.im/&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
+
+&lt;li&gt;Pat Shaughnessy- Pat Shaughnessy: &lt;a href=&quot;http://www.google.com/reader/view/feed%2Fhttp%3A%2F%2Ffeeds.feedburner.com%2Fpatshaughnessy&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
+
+&lt;li&gt;Planet Ruby- Planet Ruby: &lt;a href=&quot;http://planetruby.0x42.net/&quot;&gt;link&lt;/a&gt;: Ruby&lt;/li&gt;
+
+&lt;li&gt;Practicing Ruby- Practicing Ruby: &lt;a href=&quot;http://blog.rubybestpractices.com/&quot;&gt;link&lt;/a&gt;: Ruby&lt;/li&gt;
+
+&lt;li&gt;raganwald’s posterous- raganwald’s posterous: &lt;a href=&quot;http://raganwald.posterous.com&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
+
+&lt;li&gt;RailsTips by John Nunemaker- RailsTips by John Nunemaker: &lt;a href=&quot;http://railstips.org/blog/&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
+
+&lt;li&gt;Rake Routes- Rake Routes: &lt;a href=&quot;http://rakeroutes.com/&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
+
+&lt;li&gt;Riding Rails- Riding Rails: &lt;a href=&quot;http://weblog.rubyonrails.org/&quot;&gt;link&lt;/a&gt;: Ruby&lt;/li&gt;
+
+&lt;li&gt;Ruby Freelancers- Ruby Freelancers: &lt;a href=&quot;http://rubyfreelancers.com&quot;&gt;link&lt;/a&gt;: Ruby&lt;/li&gt;
+
+&lt;li&gt;Ruby Inside- Ruby Inside: &lt;a href=&quot;http://www.rubyinside.com/&quot;&gt;link&lt;/a&gt;: Ruby&lt;/li&gt;
+
+&lt;li&gt;Ruby Kitchen : Ruby Kitchen | Blog- Ruby Kitchen : Ruby Kitchen | Blog: &lt;a href=&quot;http://rubykitchen.in&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
+
+&lt;li&gt;Ruby News- Ruby News: &lt;a href=&quot;http://www.ruby-lang.org/en/feeds/news.rss/&quot;&gt;link&lt;/a&gt;: Ruby&lt;/li&gt;
+
+&lt;li&gt;Ruby Quicktips- Ruby Quicktips: &lt;a href=&quot;http://rubyquicktips.com/&quot;&gt;link&lt;/a&gt;: Ruby&lt;/li&gt;
+
+&lt;li&gt;Ruby Rogues- Ruby Rogues: &lt;a href=&quot;http://rubyrogues.com&quot;&gt;link&lt;/a&gt;: Ruby&lt;/li&gt;
+
+&lt;li&gt;Ruby5- Ruby5: &lt;a href=&quot;http://ruby5.envylabs.com/&quot;&gt;link&lt;/a&gt;: Ruby&lt;/li&gt;
+
+&lt;li&gt;RubyFlow- RubyFlow: &lt;a href=&quot;http://www.rubyflow.com/&quot;&gt;link&lt;/a&gt;: Ruby&lt;/li&gt;
+
+&lt;li&gt;RubyLearning Blog- RubyLearning Blog: &lt;a href=&quot;http://rubylearning.com/blog&quot;&gt;link&lt;/a&gt;: Ruby&lt;/li&gt;
+
+&lt;li&gt;RubySource- RubySource: &lt;a href=&quot;http://rubysource.com&quot;&gt;link&lt;/a&gt;: Ruby&lt;/li&gt;
+
+&lt;li&gt;Schneems- Schneems: &lt;a href=&quot;http://schneems.com/&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
+
+&lt;li&gt;Send More Paramedics- Send More Paramedics: &lt;a href=&quot;http://blog.fogus.me&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
+
+&lt;li&gt;Shades of Gray- Shades of Gray: &lt;a href=&quot;http://blog.grayproductions.net/&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
+
+&lt;li&gt;silk and spinach- silk and spinach: &lt;a href=&quot;http://silkandspinach.net&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
+
+&lt;li&gt;stevengharms.com- stevengharms.com: &lt;a href=&quot;http://stevengharms-blog.herokuapp.com//&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
+
+&lt;li&gt;Stevey’s Blog Rants- Stevey’s Blog Rants: &lt;a href=&quot;http://steve-yegge.blogspot.com/&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
+
+&lt;li&gt;The GitHub Blog- The GitHub Blog: &lt;a href=&quot;https://github.com/blog&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
+
+&lt;li&gt;The Minimalists- The Minimalists: &lt;a href=&quot;http://www.theminimalists.com&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
+
+&lt;li&gt;The Ruby Reflector- The Ruby Reflector: &lt;a href=&quot;http://rubyreflector.com&quot;&gt;link&lt;/a&gt;: Ruby&lt;/li&gt;
+
+&lt;li&gt;The timeless repository- The timeless repository: &lt;a href=&quot;http://timeless.judofyr.net/&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
+
+&lt;li&gt;Tony Arcieri- Tony Arcieri: &lt;a href=&quot;http://tonyarcieri.com&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
+
+&lt;li&gt;Victor Savkin’s Blog About Software Design- Victor Savkin’s Blog About Software Design: &lt;a href=&quot;http://victorsavkin.com/&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
+
+&lt;li&gt;Virtuous Code- Virtuous Code: &lt;a href=&quot;http://devblog.avdi.org&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
+&lt;/ul&gt;
 &lt;hr /&gt;
 &lt;p&gt;Mr. Foobar / foo@foobar.org2013-04-01 19:20:17 +0200&lt;/p&gt;</description>
 				<published>2013-04-01 00:00:00 +0200</published>
-				<link>http://localhost:4242/2013/04/01/feeder.html</link>
+				<link>http://localhost:4242/foo/2013/04/01/feeder.html</link>
 			</item>
 		
 			<item>
-				<title>Links</title>
-				<description>&lt;p&gt;https://gist.github.com/zeroed&lt;/p&gt;
-
-&lt;p&gt;http://zeroed.github.com&lt;/p&gt;
-
-&lt;p&gt;http://zeroed.github.com&lt;/p&gt;
-
-&lt;p&gt;https://github.com/zeroed&lt;/p&gt;
-
-&lt;p&gt;_&lt;/p&gt;</description>
-				<published>2013-03-24 00:00:00 +0100</published>
-				<link>http://localhost:4242/2013/03/24/links.html</link>
-			</item>
-		
-			<item>
-				<title>Page_zero</title>
-				<description>&lt;p&gt;The page zero.&lt;/p&gt;</description>
+				<title>Page zero</title>
+				<description>&lt;h2 id=&quot;the_page_zero&quot;&gt;The page zero.&lt;/h2&gt;</description>
 				<published>2013-03-15 00:00:00 +0100</published>
-				<link>http://localhost:4242/2013/03/15/page_zero.html</link>
+				<link>http://localhost:4242/foo/2013/03/15/page_zero.html</link>
 			</item>
 		
 	</channel>
