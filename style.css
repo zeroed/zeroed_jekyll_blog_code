@@ -1,7 +1,7 @@
 body {
   font-size: 12px;
-  font-family: Verdana, Arial, SunSans-Regular, Sans-Serif;
-  color:#564b47;  
+  font-family: 'Alegreya Sans', sans-serif;
+  color:#564b47;
   padding-left: 50px;
   padding-right: 20%;
 }
@@ -76,6 +76,10 @@ a:hover {
 #sidebar li {
     margin-left: -25px;
     list-style: none;
+}
+
+#sidebar li i {
+    margin-right: 5px;
 }
 
 #footer {
