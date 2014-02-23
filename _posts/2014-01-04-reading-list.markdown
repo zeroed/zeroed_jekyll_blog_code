@@ -30,3 +30,5 @@ By the way, here is the list&#46;&#46;&#46;
 - A Home at the End of the World - Michael Cunningham : [link](http://en.wikipedia.org/wiki/A_Home_at_the_End_of_the_World)
 - The Broom of the System - David Foster Wallace : [link](http://en.wikipedia.org/wiki/The_Broom_of_the_System)
 - Welcome to the N.H.K. (manga) - Tatsuhiko Takimoto : [link](http://en.wikipedia.org/wiki/Welcome_to_the_N.H.K)
+- Forty-seven Ronin (Tales of Old Japan) - Algernon Bertram Freeman-Mitford, Lord Redesdale : [link](http://en.wikipedia.org/wiki/Tales_of_Old_Japan)
+- Prison of a Billion Years - Stephen Marlowe as C.H. Thames : [link](http://www.feedbooks.com/book/4753/prison-of-a-billion-years)
