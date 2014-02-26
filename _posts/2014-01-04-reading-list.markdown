@@ -13,7 +13,7 @@ By the way, here is the list&#46;&#46;&#46;
 
 ### December 2013
 
-... After Dark - Haruki Murakami, Francis Scott Fitzgerald - The Great Gatsby, Ryūnosuke Akutagawa - In a Grove, The Difference Engine - William Gibson and Bruce Sterling&#46;&#46;&#46;
+... Heads (manga), Gantz (manga), After Dark - Haruki Murakami, Francis Scott Fitzgerald - The Great Gatsby, Ryūnosuke Akutagawa - In a Grove, The Difference Engine - William Gibson and Bruce Sterling&#46;&#46;&#46;
 
 ### January
 
@@ -32,3 +32,4 @@ By the way, here is the list&#46;&#46;&#46;
 - Welcome to the N.H.K. (manga) - Tatsuhiko Takimoto : [link](http://en.wikipedia.org/wiki/Welcome_to_the_N.H.K)
 - Forty-seven Ronin (Tales of Old Japan) - Algernon Bertram Freeman-Mitford, Lord Redesdale : [link](http://en.wikipedia.org/wiki/Tales_of_Old_Japan)
 - Prison of a Billion Years - Stephen Marlowe as C.H. Thames : [link](http://www.feedbooks.com/book/4753/prison-of-a-billion-years)
+- Un-Go (manga) - Shō Aikawa : [link](http://en.wikipedia.org/wiki/Un-Go)
