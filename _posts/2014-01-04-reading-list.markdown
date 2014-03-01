@@ -34,3 +34,5 @@ By the way, here is the list&#46;&#46;&#46;
 - Prison of a Billion Years - Stephen Marlowe as C.H. Thames : [link](http://www.feedbooks.com/book/4753/prison-of-a-billion-years)
 - Un-Go (manga) - Shō Aikawa : [link](http://en.wikipedia.org/wiki/Un-Go)
 - No. 6 (manga) - Atsuko Asano : [link](http://en.wikipedia.org/wiki/No._6)
+- Millennium Actress (manga) - Satoshi Kon : [link](http://en.wikipedia.org/wiki/Millennium_Actress)
+- 5 Centimeters Per Second (manga) - Makoto Shinkai : [link](http://en.wikipedia.org/wiki/5_Centimeters_Per_Second)
