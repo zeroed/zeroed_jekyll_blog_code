@@ -38,3 +38,4 @@ By the way, here is the list&#46;&#46;&#46;
 - 5 Centimeters Per Second (manga) - Makoto Shinkai : [link](http://en.wikipedia.org/wiki/5_Centimeters_Per_Second)
 - The place promised in our early days (manga) - Makoto Shinkai : [link](http://en.wikipedia.org/wiki/The_Place_Promised_in_Our_Early_Days)
 - Samurai Champloo (manga) - Shinichirō Watanabe : [link](http://en.wikipedia.org/wiki/Samurai_Champloo)
+- Yotsuba&! (manga) - Kiyohiko Azuma : [link](http://en.wikipedia.org/wiki/Yotsuba&!)
