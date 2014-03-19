@@ -43,3 +43,5 @@ By the way, here is the list&#46;&#46;&#46;
 - Samurai Champloo (manga) - Shinichirō Watanabe : [link](http://en.wikipedia.org/wiki/Samurai_Champloo)
 - Yotsuba&! (manga) - Kiyohiko Azuma : [link](http://en.wikipedia.org/wiki/Yotsuba&!)
 - Kafka on the Shore - Murakami Haruki : [link](http://en.wikipedia.org/wiki/Kafka_on_the_Shore)
+- Cat's Cradle - Kurt Vonnegut : [link](http://en.wikipedia.org/wiki/Cat%27s_Cradle)
+- The Thirty-Nine Steps - John Buchan : [link](http://en.wikipedia.org/wiki/The_Thirty-Nine_Steps)
