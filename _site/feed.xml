@@ -6,14 +6,26 @@
 		<link>http://localhost:4242</link>
 		
 			<item>
-				<title>Public Domain List</title>
+				<title>Public Domain Movies list</title>
 				<description>&lt;h3 id=&quot;public_domain_movies&quot;&gt;Public Domain Movies&lt;/h3&gt;
 
 &lt;h3 id=&quot;april&quot;&gt;April&lt;/h3&gt;
 
-&lt;p&gt;Secret Agent - &lt;a href=&quot;http://en.wikipedia.org/wiki/Secret_Agent_%281936_film%29&quot;&gt;link&lt;/a&gt; Cyrano de Bergerac - &lt;a href=&quot;http://en.wikipedia.org/wiki/Cyrano_de_Bergerac_%281950_film%29&quot;&gt;link&lt;/a&gt; Time Table - &lt;a href=&quot;http://en.wikipedia.org/wiki/Time_Table_%28film%29&quot;&gt;link&lt;/a&gt; To Late For Tears - &lt;a href=&quot;http://en.wikipedia.org/wiki/Too_Late_for_Tears&quot;&gt;link&lt;/a&gt; The Second Woman - &lt;a href=&quot;http://en.wikipedia.org/wiki/The_Second_Woman&quot;&gt;link&lt;/a&gt; Sabotage - &lt;a href=&quot;http://en.wikipedia.org/wiki/Sabotage_%281936_film%29&quot;&gt;link&lt;/a&gt;&lt;/p&gt;</description>
+&lt;ul&gt;
+&lt;li&gt;Secret Agent - &lt;a href=&quot;http://en.wikipedia.org/wiki/Secret_Agent_%281936_film%29&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;Cyrano de Bergerac - &lt;a href=&quot;http://en.wikipedia.org/wiki/Cyrano_de_Bergerac_%281950_film%29&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;Time Table - &lt;a href=&quot;http://en.wikipedia.org/wiki/Time_Table_%28film%29&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;To Late For Tears - &lt;a href=&quot;http://en.wikipedia.org/wiki/Too_Late_for_Tears&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;The Second Woman - &lt;a href=&quot;http://en.wikipedia.org/wiki/The_Second_Woman&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;Sabotage - &lt;a href=&quot;http://en.wikipedia.org/wiki/Sabotage_%281936_film%29&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
 				<published>2014-04-14 00:00:00 +0200</published>
-				<link>http://localhost:4242/2014/04/14/public-domain-list.html</link>
+				<link>http://localhost:4242/books/2014/04/14/public-domain-list.html</link>
 			</item>
 		
 			<item>
