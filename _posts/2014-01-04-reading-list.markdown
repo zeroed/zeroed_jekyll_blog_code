@@ -47,3 +47,5 @@ By the way, here is the list&#46;&#46;&#46;
 - The Thirty-Nine Steps - John Buchan : [link](http://en.wikipedia.org/wiki/The_Thirty-Nine_Steps)
 - Spook Country - William Gibson : [link](http://en.wikipedia.org/wiki/Spook_Country)
 
+### April
+- Dune - Frank Herbert : [link](http://en.wikipedia.org/wiki/Dune_%28novel%29)
