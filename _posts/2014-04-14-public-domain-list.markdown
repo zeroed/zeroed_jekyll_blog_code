@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Public Domain Movies list
-categories: books
-excerpt: "..."
+categories: movies
+excerpt: "Watching classics..."
 ---
 
 ### Public Domain Movies
@@ -14,3 +14,4 @@ excerpt: "..."
 - To Late For Tears - [link](http://en.wikipedia.org/wiki/Too_Late_for_Tears)
 - The Second Woman - [link](http://en.wikipedia.org/wiki/The_Second_Woman)
 - Sabotage - [link](http://en.wikipedia.org/wiki/Sabotage_%281936_film%29)
+- The 39 Steps - [link](http://en.wikipedia.org/wiki/The_39_Steps_%281935_film%29)
