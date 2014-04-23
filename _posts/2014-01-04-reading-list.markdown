@@ -49,3 +49,4 @@ By the way, here is the list&#46;&#46;&#46;
 
 ### April
 - Dune - Frank Herbert : [link](http://en.wikipedia.org/wiki/Dune_%28novel%29)
+- Dune Messiah - Frank Herbert : [link](http://en.wikipedia.org/wiki/Dune_Messiah)
