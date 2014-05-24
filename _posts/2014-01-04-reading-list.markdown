@@ -56,3 +56,5 @@ By the way, here is the list&#46;&#46;&#46;
 ### May
 - Thinking, Fast and Slow - Daniel Kahneman : [link](http://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow)
 - Children of Dune - Frank Herbert : [link](http://en.wikipedia.org/wiki/Children_of_Dune)
+- Slaughterhouse-Five - Kurt Vonnegut : [link](http://en.wikipedia.org/wiki/Slaughterhouse-Five)
+- The Elements of Style - William Strunk : [link](http://en.wikipedia.org/wiki/The_Elements_of_Style)
