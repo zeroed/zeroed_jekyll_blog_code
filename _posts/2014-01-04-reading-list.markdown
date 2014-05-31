@@ -58,3 +58,6 @@ By the way, here is the list&#46;&#46;&#46;
 - Children of Dune - Frank Herbert : [link](http://en.wikipedia.org/wiki/Children_of_Dune)
 - Slaughterhouse-Five - Kurt Vonnegut : [link](http://en.wikipedia.org/wiki/Slaughterhouse-Five)
 - The Elements of Style - William Strunk : [link](http://en.wikipedia.org/wiki/The_Elements_of_Style)
+- Mastering Bitcoin, Unlocking digital crypto-currencies - Andreas M. Antonopoulos : [link](http://shop.oreilly.com/product/0636920032281.do)
+- Bitcoin and digital currencies - James Cox : [link](http://www.goodreads.com/book/show/18211407-bitcoin-and-digital-currencies)
+
