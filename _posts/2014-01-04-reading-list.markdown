@@ -60,4 +60,7 @@ By the way, here is the list&#46;&#46;&#46;
 - The Elements of Style - William Strunk : [link](http://en.wikipedia.org/wiki/The_Elements_of_Style)
 - Mastering Bitcoin, Unlocking digital crypto-currencies - Andreas M. Antonopoulos : [link](http://shop.oreilly.com/product/0636920032281.do)
 - Bitcoin and digital currencies - James Cox : [link](http://www.goodreads.com/book/show/18211407-bitcoin-and-digital-currencies)
+- Bitcoin Internals: A Technical Guide to Bitcoin - Chris Clark : [link](http://www.amazon.com/Bitcoin-Internals-Technical-Guide-ebook/dp/B00DG8EPT0)
 
+### June
+- I am a Cat - Natsume Sōseki : [link](https://en.wikipedia.org/wiki/I_Am_a_Cat)
