@@ -13,7 +13,7 @@ By the way, here is the list&#46;&#46;&#46;
 
 ### December 2013
 
-... Heads (manga), Gantz (manga), After Dark - Haruki Murakami, Francis Scott Fitzgerald - The Great Gatsby, Ryūnosuke Akutagawa - In a Grove, The Difference Engine - William Gibson and Bruce Sterling&#46;&#46;&#46;
+... Franz Kafka - The Trial, Heads (manga), Gantz (manga), After Dark - Haruki Murakami, Francis Scott Fitzgerald - The Great Gatsby, Ryūnosuke Akutagawa - In a Grove, The Difference Engine - William Gibson and Bruce Sterling&#46;&#46;&#46;
 
 ### January
 
@@ -64,3 +64,9 @@ By the way, here is the list&#46;&#46;&#46;
 
 ### June
 - I am a Cat - Natsume Sōseki : [link](https://en.wikipedia.org/wiki/I_Am_a_Cat)
+- Bel Ami - Guy de Maupassant : [link](https://en.wikipedia.org/wiki/Bel_Ami)
+
+### July
+- Dubliners - James Joyce : [link](https://en.wikipedia.org/wiki/Dubliners)
+- Bakuman (manga) - Tsugumi Ohba, Takeshi Obata : [link](https://en.wikipedia.org/wiki/Bakuman)
+
