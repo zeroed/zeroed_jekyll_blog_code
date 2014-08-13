@@ -13,7 +13,7 @@ By the way, here is the list&#46;&#46;&#46;
 
 ### December 2013
 
-... Franz Kafka - The Trial, Heads (manga), Gantz (manga), After Dark - Haruki Murakami, Francis Scott Fitzgerald - The Great Gatsby, Ryūnosuke Akutagawa - In a Grove, The Difference Engine - William Gibson and Bruce Sterling&#46;&#46;&#46;
+... Norwegian Wood - Haruki Murakami, Franz Kafka - The Trial, Heads (manga), Gantz (manga), After Dark - Haruki Murakami, Francis Scott Fitzgerald - The Great Gatsby, Ryūnosuke Akutagawa - In a Grove, The Difference Engine - William Gibson and Bruce Sterling&#46;&#46;&#46;
 
 ### January
 
@@ -70,3 +70,7 @@ By the way, here is the list&#46;&#46;&#46;
 - Dubliners - James Joyce : [link](https://en.wikipedia.org/wiki/Dubliners)
 - Bakuman (manga) - Tsugumi Ohba, Takeshi Obata : [link](https://en.wikipedia.org/wiki/Bakuman)
 
+### August
+- 20th Century Boys (manga) - Naoki Urasawa : [link](http://en.wikipedia.org/wiki/20th_Century_Boys)
+- Candide - Voltaire : [link](http://en.wikipedia.org/wiki/Candide)
+- The Cathedral and he Bazaar - Eric S. Raymond : [link](http://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar)
