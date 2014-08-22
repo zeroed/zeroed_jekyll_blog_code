@@ -72,5 +72,8 @@ By the way, here is the list&#46;&#46;&#46;
 
 ### August
 - 20th Century Boys (manga) - Naoki Urasawa : [link](http://en.wikipedia.org/wiki/20th_Century_Boys)
+- 21th Century Boys (manga) - Naoki Urasawa : [link](http://en.wikipedia.org/wiki/List_of_20th_Century_Boys_chapters#21st_Century_Boys)
+- Billy Bat- (manga) - Naoki Urasawa : [link](https://en.wikipedia.org/wiki/Billy_Bat)
 - Candide - Voltaire : [link](http://en.wikipedia.org/wiki/Candide)
-- The Cathedral and he Bazaar - Eric S. Raymond : [link](http://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar)
+- The Cathedral and the Bazaar - Eric S. Raymond : [link](http://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar)
+- Bitcoin Exposed: Today's Complete Guide to Tomorrow's Currency - Daniel Forrester, Mark Solomon : [link](http://www.amazon.com/Bitcoin-Exposed-Complete-Tomorrows-Currency/dp/1489598669)
