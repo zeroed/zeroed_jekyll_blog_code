@@ -77,4 +77,4 @@ By the way, here is the list&#46;&#46;&#46;
 - Candide - Voltaire : [link](http://en.wikipedia.org/wiki/Candide)
 - The Cathedral and the Bazaar - Eric S. Raymond : [link](http://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar)
 - Bitcoin Exposed: Today's Complete Guide to Tomorrow's Currency - Daniel Forrester, Mark Solomon : [link](http://www.amazon.com/Bitcoin-Exposed-Complete-Tomorrows-Currency/dp/1489598669)
-
+- Galapagos - Kurt Vonnegut : [link](https://en.wikipedia.org/wiki/Gal%C3%A1pagos_%28novel%29)
