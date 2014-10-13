@@ -86,4 +86,6 @@ By the way, here is the list&#46;&#46;&#46;
 - De fato - Cicero : [link](https://it.wikipedia.org/wiki/De_fato_%28Cicerone%29)
 - The Most Dangerous Game - Richard Connell : [link](https://en.wikipedia.org/wiki/The_Most_Dangerous_Game)
 
+### October
+- The Death of Ivan Ilyich - Leo Tolstoy : [link](https://en.wikipedia.org/wiki/The_Death_of_Ivan_Ilyich)
 
