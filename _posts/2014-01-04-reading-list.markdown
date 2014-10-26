@@ -88,4 +88,5 @@ By the way, here is the list&#46;&#46;&#46;
 
 ### October
 - The Death of Ivan Ilyich - Leo Tolstoy : [link](https://en.wikipedia.org/wiki/The_Death_of_Ivan_Ilyich)
+- Dead Souls - Nikolai Gogol : [link](https://en.wikipedia.org/wiki/Dead_Souls)
 
