@@ -93,4 +93,6 @@ By the way, here is the list&#46;&#46;&#46;
 ### November
 - The House of Sleep - Jonathan Coe : [link](https://en.wikipedia.org/wiki/Jonathan_Coe#Novels)
 
+### December
+- What the Dog Saw - Malcom Gladwell : [link](https://en.wikipedia.org/wiki/What_the_Dog_Saw)
 
