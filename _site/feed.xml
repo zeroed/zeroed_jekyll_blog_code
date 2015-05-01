@@ -7,215 +7,176 @@
 		
 			<item>
 				<title>Reading list</title>
-				<description>&lt;h2 id=&quot;the_reading_list&quot;&gt;The reading list&lt;/h2&gt;
+				<description>&lt;h2 id=&quot;the-reading-list&quot;&gt;The reading list&lt;/h2&gt;
 
 &lt;p&gt;Here is the list for the 2015...&lt;/p&gt;
 
-&lt;p&gt;I should probably say some words (maybe some numbers) about the list of the 2014... I’ll think about it.&lt;/p&gt;
+&lt;p&gt;I should probably say some words (maybe some numbers) about the list of the 
+2014... I’ll think about it.&lt;/p&gt;
 
 &lt;h3 id=&quot;january&quot;&gt;January&lt;/h3&gt;
-
 &lt;ul&gt;
-&lt;li&gt;Nassim Nicholas Taleb - The Black Swan (2nd edition) : &lt;a href=&quot;https://en.wikipedia.org/wiki/The_Black_Swan_%282007_book%29&quot;&gt;wikipedia&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
+  &lt;li&gt;Nassim Nicholas Taleb - The Black Swan (2nd edition) : &lt;a href=&quot;https://en.wikipedia.org/wiki/The_Black_Swan_%282007_book%29&quot;&gt;wikipedia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Banana Yoshimoto - Kitchen : &lt;a href=&quot;https://en.wikipedia.org/wiki/Kitchen_%28novel%29&quot;&gt;wikipedia&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;march&quot;&gt;March&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Antonio Tabucchi - Sostiene Pereira : &lt;a href=&quot;https://en.wikipedia.org/wiki/Pereira_Maintains&quot;&gt;wikipedia&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;april&quot;&gt;April&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Neal Stephenson - Cryptonomicon : &lt;a href=&quot;https://en.wikipedia.org/wiki/Cryptonomicon&quot;&gt;wikipedia&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;may&quot;&gt;May&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Cormac McCarthy - The Sunset Limited : &lt;a href=&quot;https://en.wikipedia.org/wiki/The_Sunset_Limited&quot;&gt;wikipedia&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
 				<published>2015-01-01 00:00:00 +0100</published>
 				<link>http://localhost:4242/books/2015/01/01/reading-list.html</link>
 			</item>
 		
 			<item>
 				<title>Public Domain Movies list</title>
-				<description>&lt;h3 id=&quot;public_domain_movies&quot;&gt;Public Domain Movies&lt;/h3&gt;
+				<description>&lt;h3 id=&quot;public-domain-movies&quot;&gt;Public Domain Movies&lt;/h3&gt;
 
 &lt;h3 id=&quot;april&quot;&gt;April&lt;/h3&gt;
-
 &lt;ul&gt;
-&lt;li&gt;Secret Agent - &lt;a href=&quot;http://en.wikipedia.org/wiki/Secret_Agent_%281936_film%29&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
-
-&lt;li&gt;Cyrano de Bergerac - &lt;a href=&quot;http://en.wikipedia.org/wiki/Cyrano_de_Bergerac_%281950_film%29&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
-
-&lt;li&gt;Time Table - &lt;a href=&quot;http://en.wikipedia.org/wiki/Time_Table_%28film%29&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
-
-&lt;li&gt;To Late For Tears - &lt;a href=&quot;http://en.wikipedia.org/wiki/Too_Late_for_Tears&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
-
-&lt;li&gt;The Second Woman - &lt;a href=&quot;http://en.wikipedia.org/wiki/The_Second_Woman&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
-
-&lt;li&gt;Sabotage - &lt;a href=&quot;http://en.wikipedia.org/wiki/Sabotage_%281936_film%29&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
-
-&lt;li&gt;The 39 Steps - &lt;a href=&quot;http://en.wikipedia.org/wiki/The_39_Steps_%281935_film%29&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
+  &lt;li&gt;Secret Agent - &lt;a href=&quot;http://en.wikipedia.org/wiki/Secret_Agent_%281936_film%29&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Cyrano de Bergerac - &lt;a href=&quot;http://en.wikipedia.org/wiki/Cyrano_de_Bergerac_%281950_film%29&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Time Table - &lt;a href=&quot;http://en.wikipedia.org/wiki/Time_Table_%28film%29&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;To Late For Tears - &lt;a href=&quot;http://en.wikipedia.org/wiki/Too_Late_for_Tears&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;The Second Woman - &lt;a href=&quot;http://en.wikipedia.org/wiki/The_Second_Woman&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Sabotage - &lt;a href=&quot;http://en.wikipedia.org/wiki/Sabotage_%281936_film%29&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;The 39 Steps - &lt;a href=&quot;http://en.wikipedia.org/wiki/The_39_Steps_%281935_film%29&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
 				<published>2014-04-14 00:00:00 +0200</published>
 				<link>http://localhost:4242/movies/2014/04/14/public-domain-list.html</link>
 			</item>
 		
 			<item>
 				<title>Reading list</title>
-				<description>&lt;h2 id=&quot;the_reading_list&quot;&gt;The reading list&lt;/h2&gt;
+				<description>&lt;h2 id=&quot;the-reading-list&quot;&gt;The reading list&lt;/h2&gt;
 
 &lt;p&gt;I thought: &lt;em&gt;“why don’t keep trace of the books that I’ll read in 2014?”&lt;/em&gt; … Silly, uh?&lt;/p&gt;
 
 &lt;p&gt;By the way, here is the list...&lt;/p&gt;
 
-&lt;h3 id=&quot;december_2013&quot;&gt;December 2013&lt;/h3&gt;
+&lt;h3 id=&quot;december-2013&quot;&gt;December 2013&lt;/h3&gt;
 
 &lt;p&gt;… Norwegian Wood - Haruki Murakami, Franz Kafka - The Trial, Heads (manga), Gantz (manga), After Dark - Haruki Murakami, Francis Scott Fitzgerald - The Great Gatsby, Ryūnosuke Akutagawa - In a Grove, The Difference Engine - William Gibson and Bruce Sterling...&lt;/p&gt;
 
 &lt;h3 id=&quot;january&quot;&gt;January&lt;/h3&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Pattern recognition - William Gibson : &lt;a href=&quot;http://en.wikipedia.org/wiki/Pattern_Recognition_%28novel%29&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
-
-&lt;li&gt;Gantz (manga) - Hiroya Oku : &lt;a href=&quot;http://en.wikipedia.org/wiki/Gantz&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
-
-&lt;li&gt;Heads (manga) - Higashino Keigo : &lt;a href=&quot;http://www.mangahere.com/manga/heads/&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
-
-&lt;li&gt;The Insidious Dottot Fu Manchu - Sax Rohmer : &lt;a href=&quot;http://en.wikipedia.org/wiki/Nayland_Smith#Commissioner_Sir_Denis_Nayland_Smith_and_Dr._Petrie&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
-
-&lt;li&gt;Dracula’s Guest - Bram Stoker : &lt;a href=&quot;http://en.wikipedia.org/wiki/Dracula&#39;s_Guest_and_Other_Weird_Stories&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
-
-&lt;li&gt;Ikigami: The Ultimate Limit (manga) - &lt;a href=&quot;http://en.wikipedia.org/wiki/Ikigami:_The_Ultimate_Limit&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
-
-&lt;li&gt;The corrections - Jonathan Franzen : &lt;a href=&quot;http://en.wikipedia.org/wiki/The_Corrections&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Pattern recognition - William Gibson : &lt;a href=&quot;http://en.wikipedia.org/wiki/Pattern_Recognition_%28novel%29&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Gantz (manga) - Hiroya Oku : &lt;a href=&quot;http://en.wikipedia.org/wiki/Gantz&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Heads (manga) - Higashino Keigo : &lt;a href=&quot;http://www.mangahere.com/manga/heads/&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;The Insidious Dottot Fu Manchu - Sax Rohmer : &lt;a href=&quot;http://en.wikipedia.org/wiki/Nayland_Smith#Commissioner_Sir_Denis_Nayland_Smith_and_Dr._Petrie&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Dracula’s Guest - Bram Stoker : &lt;a href=&quot;http://en.wikipedia.org/wiki/Dracula&#39;s_Guest_and_Other_Weird_Stories&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Ikigami: The Ultimate Limit (manga) - &lt;a href=&quot;http://en.wikipedia.org/wiki/Ikigami:_The_Ultimate_Limit&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;The corrections - Jonathan Franzen : &lt;a href=&quot;http://en.wikipedia.org/wiki/The_Corrections&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;february&quot;&gt;February&lt;/h3&gt;
 
 &lt;ul&gt;
-&lt;li&gt;A Home at the End of the World - Michael Cunningham : &lt;a href=&quot;http://en.wikipedia.org/wiki/A_Home_at_the_End_of_the_World&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
-
-&lt;li&gt;The Broom of the System - David Foster Wallace : &lt;a href=&quot;http://en.wikipedia.org/wiki/The_Broom_of_the_System&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
-
-&lt;li&gt;Welcome to the N.H.K. (manga) - Tatsuhiko Takimoto : &lt;a href=&quot;http://en.wikipedia.org/wiki/Welcome_to_the_N.H.K&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
-
-&lt;li&gt;Forty-seven Ronin (Tales of Old Japan) - Algernon Bertram Freeman-Mitford, Lord Redesdale : &lt;a href=&quot;http://en.wikipedia.org/wiki/Tales_of_Old_Japan&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
-
-&lt;li&gt;Prison of a Billion Years - Stephen Marlowe as C.H. Thames : &lt;a href=&quot;http://www.feedbooks.com/book/4753/prison-of-a-billion-years&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
-
-&lt;li&gt;Un-Go (manga) - Shō Aikawa : &lt;a href=&quot;http://en.wikipedia.org/wiki/Un-Go&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
-
-&lt;li&gt;No. 6 (manga) - Atsuko Asano : &lt;a href=&quot;http://en.wikipedia.org/wiki/No._6&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
-
-&lt;li&gt;Millennium Actress (manga) - Satoshi Kon : &lt;a href=&quot;http://en.wikipedia.org/wiki/Millennium_Actress&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
-
-&lt;li&gt;5 Centimeters Per Second (manga) - Makoto Shinkai : &lt;a href=&quot;http://en.wikipedia.org/wiki/5_Centimeters_Per_Second&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;A Home at the End of the World - Michael Cunningham : &lt;a href=&quot;http://en.wikipedia.org/wiki/A_Home_at_the_End_of_the_World&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;The Broom of the System - David Foster Wallace : &lt;a href=&quot;http://en.wikipedia.org/wiki/The_Broom_of_the_System&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Welcome to the N.H.K. (manga) - Tatsuhiko Takimoto : &lt;a href=&quot;http://en.wikipedia.org/wiki/Welcome_to_the_N.H.K&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Forty-seven Ronin (Tales of Old Japan) - Algernon Bertram Freeman-Mitford, Lord Redesdale : &lt;a href=&quot;http://en.wikipedia.org/wiki/Tales_of_Old_Japan&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Prison of a Billion Years - Stephen Marlowe as C.H. Thames : &lt;a href=&quot;http://www.feedbooks.com/book/4753/prison-of-a-billion-years&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Un-Go (manga) - Shō Aikawa : &lt;a href=&quot;http://en.wikipedia.org/wiki/Un-Go&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;No. 6 (manga) - Atsuko Asano : &lt;a href=&quot;http://en.wikipedia.org/wiki/No._6&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Millennium Actress (manga) - Satoshi Kon : &lt;a href=&quot;http://en.wikipedia.org/wiki/Millennium_Actress&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;5 Centimeters Per Second (manga) - Makoto Shinkai : &lt;a href=&quot;http://en.wikipedia.org/wiki/5_Centimeters_Per_Second&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;march&quot;&gt;March&lt;/h3&gt;
 
 &lt;ul&gt;
-&lt;li&gt;The place promised in our early days (manga) - Makoto Shinkai : &lt;a href=&quot;http://en.wikipedia.org/wiki/The_Place_Promised_in_Our_Early_Days&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
-
-&lt;li&gt;Samurai Champloo (manga) - Shinichirō Watanabe : &lt;a href=&quot;http://en.wikipedia.org/wiki/Samurai_Champloo&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
-
-&lt;li&gt;Yotsuba&amp;amp;! (manga) - Kiyohiko Azuma : &lt;a href=&quot;http://en.wikipedia.org/wiki/Yotsuba&amp;!&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
-
-&lt;li&gt;Kafka on the Shore - Murakami Haruki : &lt;a href=&quot;http://en.wikipedia.org/wiki/Kafka_on_the_Shore&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
-
-&lt;li&gt;Cat’s Cradle - Kurt Vonnegut : &lt;a href=&quot;http://en.wikipedia.org/wiki/Cat%27s_Cradle&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
-
-&lt;li&gt;The Thirty-Nine Steps - John Buchan : &lt;a href=&quot;http://en.wikipedia.org/wiki/The_Thirty-Nine_Steps&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
-
-&lt;li&gt;Spook Country - William Gibson : &lt;a href=&quot;http://en.wikipedia.org/wiki/Spook_Country&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;The place promised in our early days (manga) - Makoto Shinkai : &lt;a href=&quot;http://en.wikipedia.org/wiki/The_Place_Promised_in_Our_Early_Days&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Samurai Champloo (manga) - Shinichirō Watanabe : &lt;a href=&quot;http://en.wikipedia.org/wiki/Samurai_Champloo&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Yotsuba&amp;amp;! (manga) - Kiyohiko Azuma : &lt;a href=&quot;http://en.wikipedia.org/wiki/Yotsuba&amp;amp;!&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Kafka on the Shore - Murakami Haruki : &lt;a href=&quot;http://en.wikipedia.org/wiki/Kafka_on_the_Shore&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Cat’s Cradle - Kurt Vonnegut : &lt;a href=&quot;http://en.wikipedia.org/wiki/Cat%27s_Cradle&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;The Thirty-Nine Steps - John Buchan : &lt;a href=&quot;http://en.wikipedia.org/wiki/The_Thirty-Nine_Steps&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Spook Country - William Gibson : &lt;a href=&quot;http://en.wikipedia.org/wiki/Spook_Country&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;april&quot;&gt;April&lt;/h3&gt;
-
 &lt;ul&gt;
-&lt;li&gt;Dune - Frank Herbert : &lt;a href=&quot;http://en.wikipedia.org/wiki/Dune_%28novel%29&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
-
-&lt;li&gt;Dune Messiah - Frank Herbert : &lt;a href=&quot;http://en.wikipedia.org/wiki/Dune_Messiah&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
-
-&lt;li&gt;Sir Gawain and the Green Knight : &lt;a href=&quot;http://en.wikipedia.org/wiki/Sir_Gawain_and_the_Green_Knight&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
-
-&lt;li&gt;No one writes to the colonel - Gabriel García Márquez : &lt;a href=&quot;http://en.wikipedia.org/wiki/No_One_Writes_to_the_Colonel&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Dune - Frank Herbert : &lt;a href=&quot;http://en.wikipedia.org/wiki/Dune_%28novel%29&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Dune Messiah - Frank Herbert : &lt;a href=&quot;http://en.wikipedia.org/wiki/Dune_Messiah&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Sir Gawain and the Green Knight : &lt;a href=&quot;http://en.wikipedia.org/wiki/Sir_Gawain_and_the_Green_Knight&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;No one writes to the colonel - Gabriel García Márquez : &lt;a href=&quot;http://en.wikipedia.org/wiki/No_One_Writes_to_the_Colonel&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;may&quot;&gt;May&lt;/h3&gt;
-
 &lt;ul&gt;
-&lt;li&gt;Thinking, Fast and Slow - Daniel Kahneman : &lt;a href=&quot;http://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
-
-&lt;li&gt;Children of Dune - Frank Herbert : &lt;a href=&quot;http://en.wikipedia.org/wiki/Children_of_Dune&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
-
-&lt;li&gt;Slaughterhouse-Five - Kurt Vonnegut : &lt;a href=&quot;http://en.wikipedia.org/wiki/Slaughterhouse-Five&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
-
-&lt;li&gt;The Elements of Style - William Strunk : &lt;a href=&quot;http://en.wikipedia.org/wiki/The_Elements_of_Style&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
-
-&lt;li&gt;Mastering Bitcoin, Unlocking digital crypto-currencies - Andreas M. Antonopoulos : &lt;a href=&quot;http://shop.oreilly.com/product/0636920032281.do&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
-
-&lt;li&gt;Bitcoin and digital currencies - James Cox : &lt;a href=&quot;http://www.goodreads.com/book/show/18211407-bitcoin-and-digital-currencies&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
-
-&lt;li&gt;Bitcoin Internals: A Technical Guide to Bitcoin - Chris Clark : &lt;a href=&quot;http://www.amazon.com/Bitcoin-Internals-Technical-Guide-ebook/dp/B00DG8EPT0&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Thinking, Fast and Slow - Daniel Kahneman : &lt;a href=&quot;http://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Children of Dune - Frank Herbert : &lt;a href=&quot;http://en.wikipedia.org/wiki/Children_of_Dune&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Slaughterhouse-Five - Kurt Vonnegut : &lt;a href=&quot;http://en.wikipedia.org/wiki/Slaughterhouse-Five&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;The Elements of Style - William Strunk : &lt;a href=&quot;http://en.wikipedia.org/wiki/The_Elements_of_Style&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Mastering Bitcoin, Unlocking digital crypto-currencies - Andreas M. Antonopoulos : &lt;a href=&quot;http://shop.oreilly.com/product/0636920032281.do&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Bitcoin and digital currencies - James Cox : &lt;a href=&quot;http://www.goodreads.com/book/show/18211407-bitcoin-and-digital-currencies&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Bitcoin Internals: A Technical Guide to Bitcoin - Chris Clark : &lt;a href=&quot;http://www.amazon.com/Bitcoin-Internals-Technical-Guide-ebook/dp/B00DG8EPT0&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;june&quot;&gt;June&lt;/h3&gt;
-
 &lt;ul&gt;
-&lt;li&gt;I am a Cat - Natsume Sōseki : &lt;a href=&quot;https://en.wikipedia.org/wiki/I_Am_a_Cat&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
-
-&lt;li&gt;Bel Ami - Guy de Maupassant : &lt;a href=&quot;https://en.wikipedia.org/wiki/Bel_Ami&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;I am a Cat - Natsume Sōseki : &lt;a href=&quot;https://en.wikipedia.org/wiki/I_Am_a_Cat&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Bel Ami - Guy de Maupassant : &lt;a href=&quot;https://en.wikipedia.org/wiki/Bel_Ami&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;july&quot;&gt;July&lt;/h3&gt;
-
 &lt;ul&gt;
-&lt;li&gt;Dubliners - James Joyce : &lt;a href=&quot;https://en.wikipedia.org/wiki/Dubliners&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
-
-&lt;li&gt;Bakuman (manga) - Tsugumi Ohba, Takeshi Obata : &lt;a href=&quot;https://en.wikipedia.org/wiki/Bakuman&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Dubliners - James Joyce : &lt;a href=&quot;https://en.wikipedia.org/wiki/Dubliners&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Bakuman (manga) - Tsugumi Ohba, Takeshi Obata : &lt;a href=&quot;https://en.wikipedia.org/wiki/Bakuman&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;august&quot;&gt;August&lt;/h3&gt;
-
 &lt;ul&gt;
-&lt;li&gt;20th Century Boys (manga) - Naoki Urasawa : &lt;a href=&quot;http://en.wikipedia.org/wiki/20th_Century_Boys&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
-
-&lt;li&gt;21th Century Boys (manga) - Naoki Urasawa : &lt;a href=&quot;http://en.wikipedia.org/wiki/List_of_20th_Century_Boys_chapters#21st_Century_Boys&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
-
-&lt;li&gt;Billy Bat- (manga) - Naoki Urasawa : &lt;a href=&quot;https://en.wikipedia.org/wiki/Billy_Bat&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
-
-&lt;li&gt;Candide - Voltaire : &lt;a href=&quot;http://en.wikipedia.org/wiki/Candide&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
-
-&lt;li&gt;The Cathedral and the Bazaar - Eric S. Raymond : &lt;a href=&quot;http://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
-
-&lt;li&gt;Bitcoin Exposed: Today’s Complete Guide to Tomorrow’s Currency - Daniel Forrester, Mark Solomon : &lt;a href=&quot;http://www.amazon.com/Bitcoin-Exposed-Complete-Tomorrows-Currency/dp/1489598669&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
-
-&lt;li&gt;Galapagos - Kurt Vonnegut : &lt;a href=&quot;https://en.wikipedia.org/wiki/Gal%C3%A1pagos_%28novel%29&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
-
-&lt;li&gt;Persepolis - Marjane Satrapi (graphic novel) : &lt;a href=&quot;https://en.wikipedia.org/wiki/Persepolis_%28comics%29&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;20th Century Boys (manga) - Naoki Urasawa : &lt;a href=&quot;http://en.wikipedia.org/wiki/20th_Century_Boys&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;21th Century Boys (manga) - Naoki Urasawa : &lt;a href=&quot;http://en.wikipedia.org/wiki/List_of_20th_Century_Boys_chapters#21st_Century_Boys&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Billy Bat- (manga) - Naoki Urasawa : &lt;a href=&quot;https://en.wikipedia.org/wiki/Billy_Bat&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Candide - Voltaire : &lt;a href=&quot;http://en.wikipedia.org/wiki/Candide&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;The Cathedral and the Bazaar - Eric S. Raymond : &lt;a href=&quot;http://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Bitcoin Exposed: Today’s Complete Guide to Tomorrow’s Currency - Daniel Forrester, Mark Solomon : &lt;a href=&quot;http://www.amazon.com/Bitcoin-Exposed-Complete-Tomorrows-Currency/dp/1489598669&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Galapagos - Kurt Vonnegut : &lt;a href=&quot;https://en.wikipedia.org/wiki/Gal%C3%A1pagos_%28novel%29&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Persepolis - Marjane Satrapi (graphic novel) : &lt;a href=&quot;https://en.wikipedia.org/wiki/Persepolis_%28comics%29&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;september&quot;&gt;September&lt;/h3&gt;
-
 &lt;ul&gt;
-&lt;li&gt;The Einstein Theory of Relativity - Hendrik Antoon Lorentz : &lt;a href=&quot;http://www.gutenberg.org/ebooks/11335&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
-
-&lt;li&gt;Beyond the Door (short story) - Philip K. Dick : &lt;a href=&quot;https://en.wikipedia.org/wiki/Beyond_the_Door_%28short_story%29&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
-
-&lt;li&gt;De fato - Cicero : &lt;a href=&quot;https://it.wikipedia.org/wiki/De_fato_%28Cicerone%29&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
-
-&lt;li&gt;The Most Dangerous Game - Richard Connell : &lt;a href=&quot;https://en.wikipedia.org/wiki/The_Most_Dangerous_Game&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;The Einstein Theory of Relativity - Hendrik Antoon Lorentz : &lt;a href=&quot;http://www.gutenberg.org/ebooks/11335&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Beyond the Door (short story) - Philip K. Dick : &lt;a href=&quot;https://en.wikipedia.org/wiki/Beyond_the_Door_%28short_story%29&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;De fato - Cicero : &lt;a href=&quot;https://it.wikipedia.org/wiki/De_fato_%28Cicerone%29&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;The Most Dangerous Game - Richard Connell : &lt;a href=&quot;https://en.wikipedia.org/wiki/The_Most_Dangerous_Game&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;october&quot;&gt;October&lt;/h3&gt;
-
 &lt;ul&gt;
-&lt;li&gt;The Death of Ivan Ilyich - Leo Tolstoy : &lt;a href=&quot;https://en.wikipedia.org/wiki/The_Death_of_Ivan_Ilyich&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
-
-&lt;li&gt;Dead Souls - Nikolai Gogol : &lt;a href=&quot;https://en.wikipedia.org/wiki/Dead_Souls&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;The Death of Ivan Ilyich - Leo Tolstoy : &lt;a href=&quot;https://en.wikipedia.org/wiki/The_Death_of_Ivan_Ilyich&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Dead Souls - Nikolai Gogol : &lt;a href=&quot;https://en.wikipedia.org/wiki/Dead_Souls&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;november&quot;&gt;November&lt;/h3&gt;
-
 &lt;ul&gt;
-&lt;li&gt;The House of Sleep - Jonathan Coe : &lt;a href=&quot;https://en.wikipedia.org/wiki/Jonathan_Coe#Novels&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;The House of Sleep - Jonathan Coe : &lt;a href=&quot;https://en.wikipedia.org/wiki/Jonathan_Coe#Novels&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;december&quot;&gt;December&lt;/h3&gt;
-
 &lt;ul&gt;
-&lt;li&gt;What the Dog Saw - Malcom Gladwell : &lt;a href=&quot;https://en.wikipedia.org/wiki/What_the_Dog_Saw&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;What the Dog Saw - Malcom Gladwell : &lt;a href=&quot;https://en.wikipedia.org/wiki/What_the_Dog_Saw&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;A Christmas Carol and other Novels - Charles Dickens : &lt;a href=&quot;https://en.wikipedia.org/wiki/A_Christmas_Carol&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;li&gt;A Christmas Carol and other Novels - Charles Dickens : &lt;a href=&quot;https://en.wikipedia.org/wiki/A_Christmas_Carol&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
+</description>
 				<published>2014-01-04 00:00:00 +0100</published>
 				<link>http://localhost:4242/books/2014/01/04/reading-list.html</link>
 			</item>
@@ -224,158 +185,128 @@
 				<title>Thinking</title>
 				<description>&lt;h2 id=&quot;thinking&quot;&gt;Thinking&lt;/h2&gt;
 
-&lt;p&gt;Mumble mumble… so much time reading and coding based on my readings… maybe it will come the time to write something useful myself… &lt;code&gt;^_^&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Mumble mumble… so much time reading and coding based on my readings… maybe it will come the time to write something useful myself…
+&lt;code&gt;^_^&lt;/code&gt;&lt;/p&gt;
 
-&lt;p&gt;Yup, for now&lt;/p&gt;</description>
+&lt;p&gt;Yup, for now…&lt;/p&gt;
+</description>
 				<published>2013-05-19 00:00:00 +0200</published>
 				<link>http://localhost:4242/foo/2013/05/19/thinking.html</link>
 			</item>
 		
 			<item>
 				<title>Still alive?</title>
-				<description>&lt;h2 id=&quot;still_alive&quot;&gt;still alive?&lt;/h2&gt;
+				<description>&lt;h2 id=&quot;still-alive&quot;&gt;still alive?&lt;/h2&gt;
 
 &lt;p&gt;Yup, still alive… just studying, coding, patching, reading, emacsing… and always rubying!&lt;/p&gt;
 
-&lt;p&gt;&lt;code&gt;^_^&lt;/code&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;code&gt;^_^&lt;/code&gt;&lt;/p&gt;
+</description>
 				<published>2013-04-10 00:00:00 +0200</published>
 				<link>http://localhost:4242/foo/2013/04/10/still_alive.html</link>
 			</item>
 		
 			<item>
 				<title>Feeder</title>
-				<description>&lt;p&gt;Feeder&lt;/p&gt;
-
-&lt;h1 id=&quot;feeder__greaded_made_human_readable&quot;&gt;Feeder - GReaded made human readable&lt;/h1&gt;
+				<description>&lt;p&gt;Feeder
+Feeder - GReaded made human readable
+====================================&lt;/p&gt;
 
 &lt;p&gt;Title: from Google ReaderTags: Ruby, BlogsSubscriptions: 2&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;A Fresh Cup- A Fresh Cup: &lt;a href=&quot;http://afreshcup.com/home/&quot;&gt;link&lt;/a&gt;: Ruby&lt;/li&gt;
-
-&lt;li&gt;Adventures with Ruby- Adventures with Ruby: &lt;a href=&quot;http://iain.nl&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
-
-&lt;li&gt;Automate All the Things!- Automate All the Things!: &lt;a href=&quot;http://dougireton.github.com/&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
-
-&lt;li&gt;benhoskin.gs- benhoskin.gs: &lt;a href=&quot;http://benhoskin.gs&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
-
-&lt;li&gt;Caius Theory- Caius Theory: &lt;a href=&quot;http://caiustheory.com/&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
-
-&lt;li&gt;Code Climate Blog- Code Climate Blog: &lt;a href=&quot;http://blog.codeclimate.com/&quot;&gt;link&lt;/a&gt;: Ruby&lt;/li&gt;
-
-&lt;li&gt;Coding Horror- Coding Horror: &lt;a href=&quot;http://www.codinghorror.com/blog/&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
-
-&lt;li&gt;create. code. learn.- create. code. learn.: &lt;a href=&quot;http://blakesmith.me&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
-
-&lt;li&gt;Dblock.org | Code- Dblock.org | Code: &lt;a href=&quot;http://code.dblock.org/&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
-
-&lt;li&gt;Debian News- Debian News: &lt;a href=&quot;http://www.debian.org/News/&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
-
-&lt;li&gt;Engine Yard Developer Blog- Engine Yard Developer Blog: &lt;a href=&quot;https://blog.engineyard.com&quot;&gt;link&lt;/a&gt;: Ruby&lt;/li&gt;
-
-&lt;li&gt;Ernie Miller- Ernie Miller: &lt;a href=&quot;http://erniemiller.org&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
-
-&lt;li&gt;giant robots smashing into other giant robots- giant robots smashing into other giant robots: &lt;a href=&quot;http://robots.thoughtbot.com/&quot;&gt;link&lt;/a&gt;: Ruby&lt;/li&gt;
-
-&lt;li&gt;Giles Bowkett- Giles Bowkett: &lt;a href=&quot;http://gilesbowkett.blogspot.com/&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
-
-&lt;li&gt;has_many :through- has_many :through: &lt;a href=&quot;http://blog.hasmanythrough.com&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
-
-&lt;li&gt;Headius- Headius: &lt;a href=&quot;http://blog.headius.com/&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
-
-&lt;li&gt;Hoopla! - Jack Danger Canty- Hoopla! - Jack Danger Canty: &lt;a href=&quot;http://6brand.com/&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
-
-&lt;li&gt;i’m in a hurry - stefano zacchiroli blog- i’m in a hurry - stefano zacchiroli blog: &lt;a href=&quot;http://upsilon.cc/~zack/blog/&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
-
-&lt;li&gt;igvita.com- igvita.com: &lt;a href=&quot;http://www.igvita.com&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
-
-&lt;li&gt;J-_-L- J-_-L: &lt;a href=&quot;http://rbjl.net&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
-
-&lt;li&gt;Jesse Storimer- Jesse Storimer: &lt;a href=&quot;http://jstorimer.com/&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
-
-&lt;li&gt;john pignata- john pignata: &lt;a href=&quot;http://tx.pignata.com/&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
-
-&lt;li&gt;journal.stuffwithstuff.com- journal.stuffwithstuff.com: &lt;a href=&quot;http://journal.stuffwithstuff.com/&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
-
-&lt;li&gt;Literate Programming- Literate Programming: &lt;a href=&quot;http://www.google.com/reader/view/feed%2Fhttp%3A%2F%2Ffeeds.feedburner.com%2FSteveKlabnik&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
-
-&lt;li&gt;Matt Aimonetti- Matt Aimonetti: &lt;a href=&quot;http://matt.aimonetti.net/&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
-
-&lt;li&gt;Matthew Bass- Matthew Bass: &lt;a href=&quot;http://www.matthewbass.com&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
-
-&lt;li&gt;Mislav’s blog- Mislav’s blog: &lt;a href=&quot;http://mislav.uniqpath.com/blog/&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
-
-&lt;li&gt;Mug.im- Mug.im: &lt;a href=&quot;http://www.mug.im/&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
-
-&lt;li&gt;Pat Shaughnessy- Pat Shaughnessy: &lt;a href=&quot;http://www.google.com/reader/view/feed%2Fhttp%3A%2F%2Ffeeds.feedburner.com%2Fpatshaughnessy&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
-
-&lt;li&gt;Planet Ruby- Planet Ruby: &lt;a href=&quot;http://planetruby.0x42.net/&quot;&gt;link&lt;/a&gt;: Ruby&lt;/li&gt;
-
-&lt;li&gt;Practicing Ruby- Practicing Ruby: &lt;a href=&quot;http://blog.rubybestpractices.com/&quot;&gt;link&lt;/a&gt;: Ruby&lt;/li&gt;
-
-&lt;li&gt;raganwald’s posterous- raganwald’s posterous: &lt;a href=&quot;http://raganwald.posterous.com&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
-
-&lt;li&gt;RailsTips by John Nunemaker- RailsTips by John Nunemaker: &lt;a href=&quot;http://railstips.org/blog/&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
-
-&lt;li&gt;Rake Routes- Rake Routes: &lt;a href=&quot;http://rakeroutes.com/&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
-
-&lt;li&gt;Riding Rails- Riding Rails: &lt;a href=&quot;http://weblog.rubyonrails.org/&quot;&gt;link&lt;/a&gt;: Ruby&lt;/li&gt;
-
-&lt;li&gt;Ruby Freelancers- Ruby Freelancers: &lt;a href=&quot;http://rubyfreelancers.com&quot;&gt;link&lt;/a&gt;: Ruby&lt;/li&gt;
-
-&lt;li&gt;Ruby Inside- Ruby Inside: &lt;a href=&quot;http://www.rubyinside.com/&quot;&gt;link&lt;/a&gt;: Ruby&lt;/li&gt;
-
-&lt;li&gt;Ruby Kitchen : Ruby Kitchen | Blog- Ruby Kitchen : Ruby Kitchen | Blog: &lt;a href=&quot;http://rubykitchen.in&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
-
-&lt;li&gt;Ruby News- Ruby News: &lt;a href=&quot;http://www.ruby-lang.org/en/feeds/news.rss/&quot;&gt;link&lt;/a&gt;: Ruby&lt;/li&gt;
-
-&lt;li&gt;Ruby Quicktips- Ruby Quicktips: &lt;a href=&quot;http://rubyquicktips.com/&quot;&gt;link&lt;/a&gt;: Ruby&lt;/li&gt;
-
-&lt;li&gt;Ruby Rogues- Ruby Rogues: &lt;a href=&quot;http://rubyrogues.com&quot;&gt;link&lt;/a&gt;: Ruby&lt;/li&gt;
-
-&lt;li&gt;Ruby5- Ruby5: &lt;a href=&quot;http://ruby5.envylabs.com/&quot;&gt;link&lt;/a&gt;: Ruby&lt;/li&gt;
-
-&lt;li&gt;RubyFlow- RubyFlow: &lt;a href=&quot;http://www.rubyflow.com/&quot;&gt;link&lt;/a&gt;: Ruby&lt;/li&gt;
-
-&lt;li&gt;RubyLearning Blog- RubyLearning Blog: &lt;a href=&quot;http://rubylearning.com/blog&quot;&gt;link&lt;/a&gt;: Ruby&lt;/li&gt;
-
-&lt;li&gt;RubySource- RubySource: &lt;a href=&quot;http://rubysource.com&quot;&gt;link&lt;/a&gt;: Ruby&lt;/li&gt;
-
-&lt;li&gt;Schneems- Schneems: &lt;a href=&quot;http://schneems.com/&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
-
-&lt;li&gt;Send More Paramedics- Send More Paramedics: &lt;a href=&quot;http://blog.fogus.me&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
-
-&lt;li&gt;Shades of Gray- Shades of Gray: &lt;a href=&quot;http://blog.grayproductions.net/&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
-
-&lt;li&gt;silk and spinach- silk and spinach: &lt;a href=&quot;http://silkandspinach.net&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
-
-&lt;li&gt;stevengharms.com- stevengharms.com: &lt;a href=&quot;http://stevengharms-blog.herokuapp.com//&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
-
-&lt;li&gt;Stevey’s Blog Rants- Stevey’s Blog Rants: &lt;a href=&quot;http://steve-yegge.blogspot.com/&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
-
-&lt;li&gt;The GitHub Blog- The GitHub Blog: &lt;a href=&quot;https://github.com/blog&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
-
-&lt;li&gt;The Minimalists- The Minimalists: &lt;a href=&quot;http://www.theminimalists.com&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
-
-&lt;li&gt;The Ruby Reflector- The Ruby Reflector: &lt;a href=&quot;http://rubyreflector.com&quot;&gt;link&lt;/a&gt;: Ruby&lt;/li&gt;
-
-&lt;li&gt;The timeless repository- The timeless repository: &lt;a href=&quot;http://timeless.judofyr.net/&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
-
-&lt;li&gt;Tony Arcieri- Tony Arcieri: &lt;a href=&quot;http://tonyarcieri.com&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
-
-&lt;li&gt;Victor Savkin’s Blog About Software Design- Victor Savkin’s Blog About Software Design: &lt;a href=&quot;http://victorsavkin.com/&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
-
-&lt;li&gt;Virtuous Code- Virtuous Code: &lt;a href=&quot;http://devblog.avdi.org&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
+  &lt;li&gt;A Fresh Cup- A Fresh Cup: &lt;a href=&quot;http://afreshcup.com/home/&quot;&gt;link&lt;/a&gt;: Ruby&lt;/li&gt;
+  &lt;li&gt;Adventures with Ruby- Adventures with Ruby: &lt;a href=&quot;http://iain.nl&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
+  &lt;li&gt;Automate All the Things!- Automate All the Things!: &lt;a href=&quot;http://dougireton.github.com/&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
+  &lt;li&gt;benhoskin.gs- benhoskin.gs: &lt;a href=&quot;http://benhoskin.gs&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
+  &lt;li&gt;Caius Theory- Caius Theory: &lt;a href=&quot;http://caiustheory.com/&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
+  &lt;li&gt;Code Climate Blog- Code Climate Blog: &lt;a href=&quot;http://blog.codeclimate.com/&quot;&gt;link&lt;/a&gt;: Ruby&lt;/li&gt;
+  &lt;li&gt;Coding Horror- Coding Horror: &lt;a href=&quot;http://www.codinghorror.com/blog/&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
+  &lt;li&gt;create. code. learn.- create. code. learn.: &lt;a href=&quot;http://blakesmith.me&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
+  &lt;li&gt;
+    &lt;table&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td&gt;Dblock.org&lt;/td&gt;
+          &lt;td&gt;Code- Dblock.org&lt;/td&gt;
+          &lt;td&gt;Code: &lt;a href=&quot;http://code.dblock.org/&quot;&gt;link&lt;/a&gt;: Blogs&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Debian News- Debian News: &lt;a href=&quot;http://www.debian.org/News/&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
+  &lt;li&gt;Engine Yard Developer Blog- Engine Yard Developer Blog: &lt;a href=&quot;https://blog.engineyard.com&quot;&gt;link&lt;/a&gt;: Ruby&lt;/li&gt;
+  &lt;li&gt;Ernie Miller- Ernie Miller: &lt;a href=&quot;http://erniemiller.org&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
+  &lt;li&gt;giant robots smashing into other giant robots- giant robots smashing into other giant robots: &lt;a href=&quot;http://robots.thoughtbot.com/&quot;&gt;link&lt;/a&gt;: Ruby&lt;/li&gt;
+  &lt;li&gt;Giles Bowkett- Giles Bowkett: &lt;a href=&quot;http://gilesbowkett.blogspot.com/&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
+  &lt;li&gt;has_many :through- has_many :through: &lt;a href=&quot;http://blog.hasmanythrough.com&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
+  &lt;li&gt;Headius- Headius: &lt;a href=&quot;http://blog.headius.com/&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
+  &lt;li&gt;Hoopla! - Jack Danger Canty- Hoopla! - Jack Danger Canty: &lt;a href=&quot;http://6brand.com/&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
+  &lt;li&gt;i’m in a hurry - stefano zacchiroli blog- i’m in a hurry - stefano zacchiroli blog: &lt;a href=&quot;http://upsilon.cc/~zack/blog/&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
+  &lt;li&gt;igvita.com- igvita.com: &lt;a href=&quot;http://www.igvita.com&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
+  &lt;li&gt;J-_-L- J-_-L: &lt;a href=&quot;http://rbjl.net&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
+  &lt;li&gt;Jesse Storimer- Jesse Storimer: &lt;a href=&quot;http://jstorimer.com/&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
+  &lt;li&gt;john pignata- john pignata: &lt;a href=&quot;http://tx.pignata.com/&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
+  &lt;li&gt;journal.stuffwithstuff.com- journal.stuffwithstuff.com: &lt;a href=&quot;http://journal.stuffwithstuff.com/&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
+  &lt;li&gt;Literate Programming- Literate Programming: &lt;a href=&quot;http://www.google.com/reader/view/feed%2Fhttp%3A%2F%2Ffeeds.feedburner.com%2FSteveKlabnik&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
+  &lt;li&gt;Matt Aimonetti- Matt Aimonetti: &lt;a href=&quot;http://matt.aimonetti.net/&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
+  &lt;li&gt;Matthew Bass- Matthew Bass: &lt;a href=&quot;http://www.matthewbass.com&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
+  &lt;li&gt;Mislav’s blog- Mislav’s blog: &lt;a href=&quot;http://mislav.uniqpath.com/blog/&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
+  &lt;li&gt;Mug.im- Mug.im: &lt;a href=&quot;http://www.mug.im/&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
+  &lt;li&gt;Pat Shaughnessy- Pat Shaughnessy: &lt;a href=&quot;http://www.google.com/reader/view/feed%2Fhttp%3A%2F%2Ffeeds.feedburner.com%2Fpatshaughnessy&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
+  &lt;li&gt;Planet Ruby- Planet Ruby: &lt;a href=&quot;http://planetruby.0x42.net/&quot;&gt;link&lt;/a&gt;: Ruby&lt;/li&gt;
+  &lt;li&gt;Practicing Ruby- Practicing Ruby: &lt;a href=&quot;http://blog.rubybestpractices.com/&quot;&gt;link&lt;/a&gt;: Ruby&lt;/li&gt;
+  &lt;li&gt;raganwald’s posterous- raganwald’s posterous: &lt;a href=&quot;http://raganwald.posterous.com&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
+  &lt;li&gt;RailsTips by John Nunemaker- RailsTips by John Nunemaker: &lt;a href=&quot;http://railstips.org/blog/&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
+  &lt;li&gt;Rake Routes- Rake Routes: &lt;a href=&quot;http://rakeroutes.com/&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
+  &lt;li&gt;Riding Rails- Riding Rails: &lt;a href=&quot;http://weblog.rubyonrails.org/&quot;&gt;link&lt;/a&gt;: Ruby&lt;/li&gt;
+  &lt;li&gt;Ruby Freelancers- Ruby Freelancers: &lt;a href=&quot;http://rubyfreelancers.com&quot;&gt;link&lt;/a&gt;: Ruby&lt;/li&gt;
+  &lt;li&gt;Ruby Inside- Ruby Inside: &lt;a href=&quot;http://www.rubyinside.com/&quot;&gt;link&lt;/a&gt;: Ruby&lt;/li&gt;
+  &lt;li&gt;
+    &lt;table&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td&gt;Ruby Kitchen : Ruby Kitchen&lt;/td&gt;
+          &lt;td&gt;Blog- Ruby Kitchen : Ruby Kitchen&lt;/td&gt;
+          &lt;td&gt;Blog: &lt;a href=&quot;http://rubykitchen.in&quot;&gt;link&lt;/a&gt;: Blogs&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Ruby News- Ruby News: &lt;a href=&quot;http://www.ruby-lang.org/en/feeds/news.rss/&quot;&gt;link&lt;/a&gt;: Ruby&lt;/li&gt;
+  &lt;li&gt;Ruby Quicktips- Ruby Quicktips: &lt;a href=&quot;http://rubyquicktips.com/&quot;&gt;link&lt;/a&gt;: Ruby&lt;/li&gt;
+  &lt;li&gt;Ruby Rogues- Ruby Rogues: &lt;a href=&quot;http://rubyrogues.com&quot;&gt;link&lt;/a&gt;: Ruby&lt;/li&gt;
+  &lt;li&gt;Ruby5- Ruby5: &lt;a href=&quot;http://ruby5.envylabs.com/&quot;&gt;link&lt;/a&gt;: Ruby&lt;/li&gt;
+  &lt;li&gt;RubyFlow- RubyFlow: &lt;a href=&quot;http://www.rubyflow.com/&quot;&gt;link&lt;/a&gt;: Ruby&lt;/li&gt;
+  &lt;li&gt;RubyLearning Blog- RubyLearning Blog: &lt;a href=&quot;http://rubylearning.com/blog&quot;&gt;link&lt;/a&gt;: Ruby&lt;/li&gt;
+  &lt;li&gt;RubySource- RubySource: &lt;a href=&quot;http://rubysource.com&quot;&gt;link&lt;/a&gt;: Ruby&lt;/li&gt;
+  &lt;li&gt;Schneems- Schneems: &lt;a href=&quot;http://schneems.com/&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
+  &lt;li&gt;Send More Paramedics- Send More Paramedics: &lt;a href=&quot;http://blog.fogus.me&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
+  &lt;li&gt;Shades of Gray- Shades of Gray: &lt;a href=&quot;http://blog.grayproductions.net/&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
+  &lt;li&gt;silk and spinach- silk and spinach: &lt;a href=&quot;http://silkandspinach.net&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
+  &lt;li&gt;stevengharms.com- stevengharms.com: &lt;a href=&quot;http://stevengharms-blog.herokuapp.com//&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
+  &lt;li&gt;Stevey’s Blog Rants- Stevey’s Blog Rants: &lt;a href=&quot;http://steve-yegge.blogspot.com/&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
+  &lt;li&gt;The GitHub Blog- The GitHub Blog: &lt;a href=&quot;https://github.com/blog&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
+  &lt;li&gt;The Minimalists- The Minimalists: &lt;a href=&quot;http://www.theminimalists.com&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
+  &lt;li&gt;The Ruby Reflector- The Ruby Reflector: &lt;a href=&quot;http://rubyreflector.com&quot;&gt;link&lt;/a&gt;: Ruby&lt;/li&gt;
+  &lt;li&gt;The timeless repository- The timeless repository: &lt;a href=&quot;http://timeless.judofyr.net/&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
+  &lt;li&gt;Tony Arcieri- Tony Arcieri: &lt;a href=&quot;http://tonyarcieri.com&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
+  &lt;li&gt;Victor Savkin’s Blog About Software Design- Victor Savkin’s Blog About Software Design: &lt;a href=&quot;http://victorsavkin.com/&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
+  &lt;li&gt;Virtuous Code- Virtuous Code: &lt;a href=&quot;http://devblog.avdi.org&quot;&gt;link&lt;/a&gt;: Blogs&lt;/li&gt;
 &lt;/ul&gt;
+
 &lt;hr /&gt;
-&lt;p&gt;Mr. Foobar / foo@foobar.org2013-04-01 19:20:17 +0200&lt;/p&gt;</description>
+
+&lt;p&gt;Mr. Foobar / foo@foobar.org2013-04-01 19:20:17 +0200&lt;/p&gt;
+</description>
 				<published>2013-04-01 00:00:00 +0200</published>
 				<link>http://localhost:4242/foo/2013/04/01/feeder.html</link>
 			</item>
 		
 			<item>
 				<title>Page zero</title>
-				<description>&lt;h2 id=&quot;the_page_zero&quot;&gt;The page zero.&lt;/h2&gt;</description>
+				<description>&lt;h2 id=&quot;the-page-zero&quot;&gt;The page zero.&lt;/h2&gt;
+</description>
 				<published>2013-03-15 00:00:00 +0100</published>
 				<link>http://localhost:4242/foo/2013/03/15/page_zero.html</link>
 			</item>

@@ -14,4 +14,13 @@ I should probably say some words (maybe some numbers) about the list of the
 
 ### January
 - Nassim Nicholas Taleb - The Black Swan (2nd edition) : [wikipedia](https://en.wikipedia.org/wiki/The_Black_Swan_%282007_book%29)
+- Banana Yoshimoto - Kitchen : [wikipedia](https://en.wikipedia.org/wiki/Kitchen_%28novel%29)
 
+### March
+- Antonio Tabucchi - Sostiene Pereira : [wikipedia](https://en.wikipedia.org/wiki/Pereira_Maintains)
+
+### April
+- Neal Stephenson - Cryptonomicon : [wikipedia](https://en.wikipedia.org/wiki/Cryptonomicon)
+
+### May
+- Cormac McCarthy - The Sunset Limited : [wikipedia](https://en.wikipedia.org/wiki/The_Sunset_Limited)
