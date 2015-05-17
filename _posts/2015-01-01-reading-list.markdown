@@ -24,3 +24,5 @@ I should probably say some words (maybe some numbers) about the list of the
 
 ### May
 - Cormac McCarthy - The Sunset Limited : [wikipedia](https://en.wikipedia.org/wiki/The_Sunset_Limited)
+- Niccolo' Ammaniti - Fango : [wikipedia](https://it.wikipedia.org/wiki/Fango_%28racconti%29)
+
