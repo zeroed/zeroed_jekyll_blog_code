@@ -27,6 +27,7 @@ I should probably say some words (maybe some numbers) about the list of the
 - Niccolo' Ammaniti - Fango : [wikipedia](https://it.wikipedia.org/wiki/Fango_%28racconti%29)
 
 ### June
+- Jorge Luis Borges - The Aleph : [wikipedia](https://en.wikipedia.org/wiki/The_Aleph_(short_story_collection))
 - Davi Foster Wallace - Everything and More: A Compact History of Infinity : [wikipedia](https://en.wikipedia.org/wiki/Everything_and_More_(book))
 - Daniel Pennac - Storia di un Corpo : [wikipedia](https://it.wikipedia.org/wiki/Storia_di_un_corpo)
 
