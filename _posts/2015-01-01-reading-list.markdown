@@ -9,7 +9,7 @@ excerpt: "..."
 
 Here is the list for the 2015&#46;&#46;&#46;
 
-I should probably say some words (maybe some numbers) about the list of the 
+I should probably say some words (maybe some numbers) about the list of the
 2014&#46;&#46;&#46; I'll think about it.
 
 ### January
@@ -28,6 +28,9 @@ I should probably say some words (maybe some numbers) about the list of the
 
 ### June
 - Jorge Luis Borges - The Aleph : [wikipedia](https://en.wikipedia.org/wiki/The_Aleph_(short_story_collection))
-- Davi Foster Wallace - Everything and More: A Compact History of Infinity : [wikipedia](https://en.wikipedia.org/wiki/Everything_and_More_(book))
+- David Foster Wallace - Everything and More: A Compact History of Infinity : [wikipedia](https://en.wikipedia.org/wiki/Everything_and_More_(book))
 - Daniel Pennac - Storia di un Corpo : [wikipedia](https://it.wikipedia.org/wiki/Storia_di_un_corpo)
 
+### July
+- David Foster Wallace - Consider The Lobster : [wikipedia](https://en.wikipedia.org/wiki/Consider_the_Lobster)
+- Paulo Cohelo - Veronika Decide di Morire : [wikipedia](https://it.wikipedia.org/wiki/Veronika_decide_di_morire)
