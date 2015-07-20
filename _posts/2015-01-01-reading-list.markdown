@@ -34,3 +34,5 @@ I should probably say some words (maybe some numbers) about the list of the
 ### July
 - David Foster Wallace - Consider The Lobster : [wikipedia](https://en.wikipedia.org/wiki/Consider_the_Lobster)
 - Paulo Cohelo - Veronika Decide di Morire : [wikipedia](https://it.wikipedia.org/wiki/Veronika_decide_di_morire)
+- Christopher Isherwood - Mr Norris Changes Trains : [wikipedia](https://en.wikipedia.org/wiki/Mr_Norris_Changes_Trains)
+- Christopher Isherwood - Goodbye to Berlin : [wikipedia](https://en.wikipedia.org/wiki/Goodbye_to_Berlin)
