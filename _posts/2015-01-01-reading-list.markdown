@@ -36,3 +36,5 @@ I should probably say some words (maybe some numbers) about the list of the
 - Paulo Cohelo - Veronika Decide di Morire : [wikipedia](https://it.wikipedia.org/wiki/Veronika_decide_di_morire)
 - Christopher Isherwood - Mr Norris Changes Trains : [wikipedia](https://en.wikipedia.org/wiki/Mr_Norris_Changes_Trains)
 - Christopher Isherwood - Goodbye to Berlin : [wikipedia](https://en.wikipedia.org/wiki/Goodbye_to_Berlin)
+- Haruki Murakami - Men Without Women : [wikipedia](https://en.wikipedia.org/wiki/Haruki_Murakami#Bibliography)
+- Banana Yoshimoto - The Lake : [wikipedia](https://en.wikipedia.org/wiki/The_Lake_(Banana_Yoshimoto_novel))
