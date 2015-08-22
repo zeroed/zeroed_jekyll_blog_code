@@ -38,3 +38,7 @@ I should probably say some words (maybe some numbers) about the list of the
 - Christopher Isherwood - Goodbye to Berlin : [wikipedia](https://en.wikipedia.org/wiki/Goodbye_to_Berlin)
 - Haruki Murakami - Men Without Women : [wikipedia](https://en.wikipedia.org/wiki/Haruki_Murakami#Bibliography)
 - Banana Yoshimoto - The Lake : [wikipedia](https://en.wikipedia.org/wiki/The_Lake_(Banana_Yoshimoto_novel))
+
+### August
+- David Foster Wallace - A Supposedly Fun Thing I'll Never Do Again: [wikipedia](https://en.wikipedia.org/wiki/A_Supposedly_Fun_Thing_I%27ll_Never_Do_Again)
+
