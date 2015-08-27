@@ -40,5 +40,5 @@ I should probably say some words (maybe some numbers) about the list of the
 - Banana Yoshimoto - The Lake : [wikipedia](https://en.wikipedia.org/wiki/The_Lake_(Banana_Yoshimoto_novel))
 
 ### August
-- David Foster Wallace - A Supposedly Fun Thing I'll Never Do Again: [wikipedia](https://en.wikipedia.org/wiki/A_Supposedly_Fun_Thing_I%27ll_Never_Do_Again)
-
+- David Foster Wallace - A Supposedly Fun Thing I'll Never Do Again : [wikipedia](https://en.wikipedia.org/wiki/A_Supposedly_Fun_Thing_I%27ll_Never_Do_Again)
+- Laurence Sterne - The Life and Opinions of Tristram Shandy, Gentleman (Volume I): [wikipedia](https://en.wikipedia.org/wiki/The_Life_and_Opinions_of_Tristram_Shandy,_Gentleman#Synopsis_and_style)
