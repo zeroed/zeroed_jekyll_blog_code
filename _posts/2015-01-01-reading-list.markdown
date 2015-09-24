@@ -41,9 +41,11 @@ I should probably say some words (maybe some numbers) about the list of the
 
 ### August
 - David Foster Wallace - A Supposedly Fun Thing I'll Never Do Again : [wikipedia](https://en.wikipedia.org/wiki/A_Supposedly_Fun_Thing_I%27ll_Never_Do_Again)
-- Laurence Sterne - The Life and Opinions of Tristram Shandy, Gentleman (Volume I): [wikipedia](https://en.wikipedia.org/wiki/The_Life_and_Opinions_of_Tristram_Shandy,_Gentleman#Synopsis_and_style)
+- Laurence Sterne - The Life and Opinions of Tristram Shandy, Gentleman (Volume I-II): [wikipedia](https://en.wikipedia.org/wiki/The_Life_and_Opinions_of_Tristram_Shandy,_Gentleman#Synopsis_and_style)
 
 ### September
 - Kurt Vonnegut - 2BR02B (short story) : [wikipedia](https://en.wikipedia.org/wiki/2_B_R_0_2_B)
 - Kurt Vonnegut - The Big Trip Up Yonder (short story) : [wikipedia](https://en.wikipedia.org/wiki/Tomorrow_and_Tomorrow_and_Tomorrow_(short_story))
 - Richard Dawkins - The God Delusion : [wikipedia](https://en.wikipedia.org/wiki/The_God_Delusion)
+- Laurence Sterne - The Life and Opinions of Tristram Shandy, Gentleman (Volume III-IV): [wikipedia](https://en.wikipedia.org/wiki/The_Life_and_Opinions_of_Tristram_Shandy,_Gentleman#Synopsis_and_style)
+
