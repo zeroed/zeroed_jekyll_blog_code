@@ -49,3 +49,5 @@ I should probably say some words (maybe some numbers) about the list of the
 - Richard Dawkins - The God Delusion : [wikipedia](https://en.wikipedia.org/wiki/The_God_Delusion)
 - Laurence Sterne - The Life and Opinions of Tristram Shandy, Gentleman (Volume III-IV): [wikipedia](https://en.wikipedia.org/wiki/The_Life_and_Opinions_of_Tristram_Shandy,_Gentleman#Synopsis_and_style)
 
+### October
+- David Foster Wallace - Both Flesh and Not : [wikipedia](https://en.wikipedia.org/wiki/Both_Flesh_and_Not)
