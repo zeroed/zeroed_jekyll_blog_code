@@ -51,3 +51,7 @@ I should probably say some words (maybe some numbers) about the list of the
 
 ### October
 - David Foster Wallace - Both Flesh and Not : [wikipedia](https://en.wikipedia.org/wiki/Both_Flesh_and_Not)
+
+### November
+- Thomas Pynchon - Gravity's Rainbow : [wikipedia](https://en.wikipedia.org/wiki/Gravity%27s_Rainbow)
+
