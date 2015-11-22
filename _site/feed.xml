@@ -75,6 +75,7 @@
 &lt;h3 id=&quot;november&quot;&gt;November&lt;/h3&gt;
 &lt;ul&gt;
   &lt;li&gt;Thomas Pynchon - Gravity’s Rainbow : &lt;a href=&quot;https://en.wikipedia.org/wiki/Gravity%27s_Rainbow&quot;&gt;wikipedia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Oliver Sacks - The Man Who Mistook His Wife for a Hat and Other Clinical Tales : &lt;a href=&quot;https://en.wikipedia.org/wiki/The_Man_Who_Mistook_His_Wife_for_a_Hat&quot;&gt;wikipedia&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 </description>
@@ -246,7 +247,7 @@
 &lt;p&gt;&lt;code&gt;^_^&lt;/code&gt;&lt;/p&gt;
 </description>
 				<published>2013-04-10 00:00:00 +0200</published>
-				<link>http://localhost:4242/foo/2013/04/10/still-alive.html</link>
+				<link>http://localhost:4242/foo/2013/04/10/still_alive.html</link>
 			</item>
 		
 			<item>
@@ -351,7 +352,7 @@ Feeder - GReaded made human readable
 				<description>&lt;h2 id=&quot;the-page-zero&quot;&gt;The page zero.&lt;/h2&gt;
 </description>
 				<published>2013-03-15 00:00:00 +0100</published>
-				<link>http://localhost:4242/foo/2013/03/15/page-zero.html</link>
+				<link>http://localhost:4242/foo/2013/03/15/page_zero.html</link>
 			</item>
 		
 	</channel>

@@ -54,4 +54,6 @@ I should probably say some words (maybe some numbers) about the list of the
 
 ### November
 - Thomas Pynchon - Gravity's Rainbow : [wikipedia](https://en.wikipedia.org/wiki/Gravity%27s_Rainbow)
+- Oliver Sacks - The Man Who Mistook His Wife for a Hat and Other Clinical Tales : [wikipedia](https://en.wikipedia.org/wiki/The_Man_Who_Mistook_His_Wife_for_a_Hat)
+
 
