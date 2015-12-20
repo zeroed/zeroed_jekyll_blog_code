@@ -56,4 +56,6 @@ I should probably say some words (maybe some numbers) about the list of the
 - Thomas Pynchon - Gravity's Rainbow : [wikipedia](https://en.wikipedia.org/wiki/Gravity%27s_Rainbow)
 - Oliver Sacks - The Man Who Mistook His Wife for a Hat and Other Clinical Tales : [wikipedia](https://en.wikipedia.org/wiki/The_Man_Who_Mistook_His_Wife_for_a_Hat)
 
-
+### December
+- Max Tegmark - Our Mathematical Universe : [wikipedia](https://en.wikipedia.org/wiki/Our_Mathematical_Universe)
+- Uchū Kyōdai (Space Brothers) (manga) Chūya Koyama : [wikipedia](https://en.wikipedia.org/wiki/Space_Brothers_(manga))
