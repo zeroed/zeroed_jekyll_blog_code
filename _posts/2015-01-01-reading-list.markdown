@@ -58,5 +58,6 @@ I should probably say some words (maybe some numbers) about the list of the
 
 ### December
 - Max Tegmark - Our Mathematical Universe : [wikipedia](https://en.wikipedia.org/wiki/Our_Mathematical_Universe)
-- Uchū Kyōdai (Space Brothers) (manga) Chūya Koyama : [wikipedia](https://en.wikipedia.org/wiki/Space_Brothers_(manga))
+- Chūya Koyama - Uchū Kyōdai (Space Brothers) (manga) : [wikipedia](https://en.wikipedia.org/wiki/Space_Brothers_(manga))
 - David Foster Wallace, Richard Taylor - Fate, Time and Language: An Essay on Free Will : [wikipedia](https://en.wikipedia.org/wiki/Richard_Taylor_(philosopher)#cite_note-4)
+- Tsutomu Takahashi - Alive! (manga) : [wikipedia](https://en.wikipedia.org/wiki/Tsutomu_Takahashi)
