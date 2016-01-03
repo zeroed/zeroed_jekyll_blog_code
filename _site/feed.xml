@@ -9,6 +9,22 @@
 				<title>Reading list</title>
 				<description>&lt;h2 id=&quot;the-reading-list&quot;&gt;The reading list&lt;/h2&gt;
 
+&lt;p&gt;Here is the list for the 2016...&lt;/p&gt;
+
+&lt;h3 id=&quot;january&quot;&gt;January&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;David Foster Wallace - The Pale King : &lt;a href=&quot;https://en.wikipedia.org/wiki/The_Pale_King&quot;&gt;wikipedia&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+				<published>2016-01-01 00:00:00 +0100</published>
+				<link>http://localhost:4242/books/2016/01/01/reading-list.html</link>
+			</item>
+		
+			<item>
+				<title>Reading list</title>
+				<description>&lt;h2 id=&quot;the-reading-list&quot;&gt;The reading list&lt;/h2&gt;
+
 &lt;p&gt;Here is the list for the 2015...&lt;/p&gt;
 
 &lt;p&gt;I should probably say some words (maybe some numbers) about the list of the
