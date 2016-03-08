@@ -28,6 +28,11 @@
   &lt;li&gt;Neil Gaiman - Smoke and Mirrors (story collection) : &lt;a href=&quot;https://en.wikipedia.org/wiki/Smoke_and_Mirrors_(story_collection)&quot;&gt;wikipedia&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
+&lt;h3 id=&quot;march&quot;&gt;March&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Don DeLillo - Underworld : &lt;a href=&quot;https://en.wikipedia.org/wiki/Underworld_(DeLillo_novel)&quot;&gt;wikipedia&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
 				<published>2016-01-01 00:00:00 +0100</published>
 				<link>http://localhost:4242/books/2016/01/01/reading-list.html</link>
@@ -265,7 +270,7 @@
 				<description>&lt;h2 id=&quot;thinking&quot;&gt;Thinking&lt;/h2&gt;
 
 &lt;p&gt;Mumble mumble… so much time reading and coding based on my readings… maybe it will come the time to write something useful myself…
-&lt;code&gt;^_^&lt;/code&gt;&lt;/p&gt;
+&lt;code class=&quot;highlighter-rouge&quot;&gt;^_^&lt;/code&gt;&lt;/p&gt;
 
 &lt;p&gt;Yup, for now…&lt;/p&gt;
 </description>
@@ -279,7 +284,7 @@
 
 &lt;p&gt;Yup, still alive… just studying, coding, patching, reading, emacsing… and always rubying!&lt;/p&gt;
 
-&lt;p&gt;&lt;code&gt;^_^&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;^_^&lt;/code&gt;&lt;/p&gt;
 </description>
 				<published>2013-04-10 00:00:00 +0200</published>
 				<link>http://localhost:4242/foo/2013/04/10/still_alive.html</link>
