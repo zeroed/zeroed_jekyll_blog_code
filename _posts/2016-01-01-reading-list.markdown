@@ -25,3 +25,9 @@ Here is the list for the 2016&#46;&#46;&#46;
 ### March
 
 - Don DeLillo - Underworld : [wikipedia](https://en.wikipedia.org/wiki/Underworld_(DeLillo_novel))
+- Ursula K. Le Guin - The Dispossessed: An Ambiguous Utopia : [wikipedia](https://en.wikipedia.org/wiki/The_Dispossessed)
+- Chuck Palahniuk - Doomed : [wikipedia](https://en.wikipedia.org/wiki/Doomed_(novel))
+
+## April
+
+- Kazuo Ishiguro - The Buried Giant : [wikipedia](https://en.wikipedia.org/wiki/The_Buried_Giant)
