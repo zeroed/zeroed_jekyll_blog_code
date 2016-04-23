@@ -31,3 +31,4 @@ Here is the list for the 2016&#46;&#46;&#46;
 ## April
 
 - Kazuo Ishiguro - The Buried Giant : [wikipedia](https://en.wikipedia.org/wiki/The_Buried_Giant)
+- Ben Marcus (editor) - New American Stories : [wikipedia](https://en.wikipedia.org/wiki/Ben_Marcus)
