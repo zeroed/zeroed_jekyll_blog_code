@@ -28,7 +28,11 @@ Here is the list for the 2016&#46;&#46;&#46;
 - Ursula K. Le Guin - The Dispossessed: An Ambiguous Utopia : [wikipedia](https://en.wikipedia.org/wiki/The_Dispossessed)
 - Chuck Palahniuk - Doomed : [wikipedia](https://en.wikipedia.org/wiki/Doomed_(novel))
 
-## April
+### April
 
 - Kazuo Ishiguro - The Buried Giant : [wikipedia](https://en.wikipedia.org/wiki/The_Buried_Giant)
 - Ben Marcus (editor) - New American Stories : [wikipedia](https://en.wikipedia.org/wiki/Ben_Marcus)
+
+### May
+
+- Thomas Mann - Death in Venice (and other stories) : [wikipedia](https://en.wikipedia.org/wiki/Death_in_Venice)
