@@ -37,3 +37,5 @@ Here is the list for the 2016&#46;&#46;&#46;
 
 - Thomas Mann - Death in Venice (and other stories) : [wikipedia](https://en.wikipedia.org/wiki/Death_in_Venice)
 - Yoshihiro Togashi - Hunter x Hunter (manga) vol. 000 to 353 [wikipedia](https://en.wikipedia.org/wiki/Hunter_×_Hunter)
+- J.R.R. Tolkien - The Children of Húrin [wikipedia](https://en.wikipedia.org/wiki/The_Children_of_Húrin)
+
