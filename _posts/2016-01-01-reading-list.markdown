@@ -39,3 +39,6 @@ Here is the list for the 2016&#46;&#46;&#46;
 - Yoshihiro Togashi - Hunter x Hunter (manga) vol. 000 to 353 [wikipedia](https://en.wikipedia.org/wiki/Hunter_×_Hunter)
 - J.R.R. Tolkien - The Children of Húrin [wikipedia](https://en.wikipedia.org/wiki/The_Children_of_Húrin)
 
+### June
+
+- Aldous Huxley - Brave New World : [wikipedia](https://en.wikipedia.org/wiki/Brave_New_World)
