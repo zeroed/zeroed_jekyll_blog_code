@@ -42,3 +42,4 @@ Here is the list for the 2016&#46;&#46;&#46;
 ### June
 
 - Aldous Huxley - Brave New World : [wikipedia](https://en.wikipedia.org/wiki/Brave_New_World)
+- Truman Capote - A Tree of Night and Other Stories : [wikipedia](https://en.wikipedia.org/wiki/A_Tree_of_Night_and_Other_Stories)
