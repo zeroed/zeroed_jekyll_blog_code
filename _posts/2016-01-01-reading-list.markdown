@@ -43,3 +43,4 @@ Here is the list for the 2016&#46;&#46;&#46;
 
 - Aldous Huxley - Brave New World : [wikipedia](https://en.wikipedia.org/wiki/Brave_New_World)
 - Truman Capote - A Tree of Night and Other Stories : [wikipedia](https://en.wikipedia.org/wiki/A_Tree_of_Night_and_Other_Stories)
+- Terry Pratchett, Neil Gaiman - Good Omens (The Nice and Accurate Prophecies of Agnes Nutter, Witch) : [wikipedia](https://en.wikipedia.org/wiki/Good_Omens)
