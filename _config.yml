@@ -41,8 +41,8 @@ coderay:
   coderay_bold_every: 10
   coderay_css: style
 
-name: zeroed's [Jekyll] Blog
-description: zeroed on Jekyll.
+name: "zeroed's [Jekyll] Blog"
+description: "ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn"
 author: zeroed
 author_email: edd.rossi@gmail.com
 category_dir: categories
