@@ -50,3 +50,6 @@ Here is the list for the 2016&#46;&#46;&#46;
 
 ### August
 -  George R.R. Martin - A Game of Thrones : [wikipedia](https://en.wikipedia.org/wiki/A_Game_of_Thrones)
+
+### September
+-  George R.R. Martin - A Clash of Kings : [wikipedia](https://en.wikipedia.org/wiki/A_Clash_of_Kings)
