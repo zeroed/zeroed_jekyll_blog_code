@@ -49,7 +49,8 @@ Here is the list for the 2016&#46;&#46;&#46;
 - Chuck Palahniuk - Make Something Up : [wikipedia](https://en.wikipedia.org/wiki/Make_Something_Up)
 
 ### August
--  George R.R. Martin - A Game of Thrones : [wikipedia](https://en.wikipedia.org/wiki/A_Game_of_Thrones)
+- George R.R. Martin - A Game of Thrones : [wikipedia](https://en.wikipedia.org/wiki/A_Game_of_Thrones)
 
 ### September
--  George R.R. Martin - A Clash of Kings : [wikipedia](https://en.wikipedia.org/wiki/A_Clash_of_Kings)
+- George R.R. Martin - A Clash of Kings : [wikipedia](https://en.wikipedia.org/wiki/A_Clash_of_Kings)
+- Neil Gaiman - Trigger Warning: Short Fictions and Disturbances : [wikipedia](https://en.wikipedia.org/wiki/Neil_Gaiman_bibliography#Collected)
