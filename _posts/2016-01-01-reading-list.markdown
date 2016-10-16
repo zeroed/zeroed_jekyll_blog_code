@@ -54,3 +54,6 @@ Here is the list for the 2016&#46;&#46;&#46;
 ### September
 - George R.R. Martin - A Clash of Kings : [wikipedia](https://en.wikipedia.org/wiki/A_Clash_of_Kings)
 - Neil Gaiman - Trigger Warning: Short Fictions and Disturbances : [wikipedia](https://en.wikipedia.org/wiki/Neil_Gaiman_bibliography#Collected)
+
+### October
+- Jonathan Franzen - Purity : [wikipedia](https://en.wikipedia.org/wiki/Purity_(novel))
