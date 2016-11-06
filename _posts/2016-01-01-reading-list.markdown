@@ -58,3 +58,6 @@ Here is the list for the 2016&#46;&#46;&#46;
 ### October
 - Jonathan Franzen - Purity : [wikipedia](https://en.wikipedia.org/wiki/Purity_(novel))
 - Terry Pratchett, Stephen Baxter - The Long Earth : [wikipedia](https://en.wikipedia.org/wiki/The_Long_Earth)
+
+### November
+-  William S. Burroughs - Naked Lunch : [wikipedia](https://en.wikipedia.org/wiki/Naked_Lunch)
