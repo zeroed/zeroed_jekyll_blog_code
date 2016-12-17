@@ -60,4 +60,9 @@ Here is the list for the 2016&#46;&#46;&#46;
 - Terry Pratchett, Stephen Baxter - The Long Earth : [wikipedia](https://en.wikipedia.org/wiki/The_Long_Earth)
 
 ### November
--  William S. Burroughs - Naked Lunch : [wikipedia](https://en.wikipedia.org/wiki/Naked_Lunch)
+- William S. Burroughs - Naked Lunch : [wikipedia](https://en.wikipedia.org/wiki/Naked_Lunch)
+- Matt Parker - Things to Make and Do in the Fourth Dimension : [wikipedia](https://en.wikipedia.org/wiki/Matt_Parker)
+
+### December
+- Dashiell Hammett - The Thin Man : [wikipedia](https://en.wikipedia.org/wiki/The_Thin_Man)
+- Frank Wilczek - A Beautifil Question : [wikipedia](https://en.wikipedia.org/wiki/Frank_Wilczek)
