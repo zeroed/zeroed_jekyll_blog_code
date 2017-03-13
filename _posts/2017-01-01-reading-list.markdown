@@ -17,3 +17,8 @@ Here is the list for the 2017&#46;&#46;&#46;
 
 - Michael Puett, Christine Gross-Loh - The Path: What Chinese Philosophers Can Teach Us About the Good Life : [goodreads](http://www.goodreads.com/book/show/23492653-the-path)
 - James Hogg - The Private Memoirs and Confessions of a Justified Sinner : [wikipedia](https://en.wikipedia.org/wiki/The_Private_Memoirs_and_Confessions_of_a_Justified_Sinner)
+
+### March
+
+- Yuval Harari - Sapiens: A Brief History of Humankind : [wikipedia](https://en.wikipedia.org/wiki/Sapiens:_A_Brief_History_of_Humankind)
+- Randall Munroe - What If?: Serious Scientific Answers to Absurd Hypothetical Questions : [wikipedia](https://en.wikipedia.org/wiki/What_If%3F:_Serious_Scientific_Answers_to_Absurd_Hypothetical_Questions)
