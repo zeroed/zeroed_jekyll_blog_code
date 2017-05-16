@@ -22,3 +22,11 @@ Here is the list for the 2017&#46;&#46;&#46;
 
 - Yuval Harari - Sapiens: A Brief History of Humankind : [wikipedia](https://en.wikipedia.org/wiki/Sapiens:_A_Brief_History_of_Humankind)
 - Randall Munroe - What If?: Serious Scientific Answers to Absurd Hypothetical Questions : [wikipedia](https://en.wikipedia.org/wiki/What_If%3F:_Serious_Scientific_Answers_to_Absurd_Hypothetical_Questions)
+
+### April
+
+- H.P. Lovecraft - H.P. Lovecraft: The Complete Fiction : [wikipedia](https://en.wikipedia.org/wiki/H._P._Lovecraft)
+
+### May
+
+- Christopher Hitchens : God Is Not Great [wikipedia](https://en.wikipedia.org/wiki/God_Is_Not_Great)
