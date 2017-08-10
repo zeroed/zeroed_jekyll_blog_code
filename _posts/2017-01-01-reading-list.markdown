@@ -29,4 +29,8 @@ Here is the list for the 2017&#46;&#46;&#46;
 
 ### May
 
-- Christopher Hitchens : God Is Not Great [wikipedia](https://en.wikipedia.org/wiki/God_Is_Not_Great)
+- Christopher Hitchens - God Is Not Great : [wikipedia](https://en.wikipedia.org/wiki/God_Is_Not_Great)
+
+### July
+
+- Nassim Nicholas Taleb - Fooled by Randomness: The Hidden Role of Chance in Life and in the Markets : [wikipedia](https://en.wikipedia.org/wiki/Fooled_by_Randomness)
