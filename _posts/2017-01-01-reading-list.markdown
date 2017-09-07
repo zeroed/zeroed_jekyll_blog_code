@@ -34,3 +34,7 @@ Here is the list for the 2017&#46;&#46;&#46;
 ### July
 
 - Nassim Nicholas Taleb - Fooled by Randomness: The Hidden Role of Chance in Life and in the Markets : [wikipedia](https://en.wikipedia.org/wiki/Fooled_by_Randomness)
+
+### August
+
+- Noam Chomsky - On On Anarchism : [wikipedia](https://en.wikipedia.org/wiki/Noam_Chomsky)
